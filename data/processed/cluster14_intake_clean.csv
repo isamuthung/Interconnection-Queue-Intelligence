@@ -1,0 +1,364 @@
+pto,affected_pto,area,total_mw_at_poi,tech_1,mw_t1,tech_2,mw_t2,tech_3,mw_t3,poi,voltage_kv,tech_1_norm,tech_2_norm,tech_3_norm,technology,net_mw
+DCRT,SCE,Eastern,500.0,Battery,516.7638,Solar PV,516.7638,,,Cielo Azul Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),500.0
+DCRT,SCE,Eastern,350.0,Battery,350.0,Solar PV,350.0,,,Delaney Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),350.0
+DCRT,SCE,Eastern,2000.0,Battery,2000.0,,,,,Cielo Azul Substation,500.0,Battery,,,Battery,2000.0
+DCRT,SCE,Eastern,350.0,Solar PV,357.53,,,,,Delaney-Colorado River,500.0,Solar,,,Solar,350.0
+DCRT,SCE,Eastern,700.0,Battery,718.81,Solar PV,718.81,,,Delaney-Colorado River,500.0,Battery,Solar,,Hybrid (Solar+Storage),700.0
+DCRT,SCE,Eastern,500.0,Battery,508.56,Solar PV,508.56,,,Cielo Azul Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),500.0
+DCRT,SCE,Eastern,400.0,Battery,410.76,Solar PV,410.76,,,Delaney Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+DCRT,SCE,Eastern,450.0,Battery,450.0,Solar PV,450.0,,,Delaney Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),450.0
+DCRT,SCE,Eastern,150.0,Battery,150.0,Solar PV,175.0,,,Delaney,500.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+SCE,,Eastern,250.0,Battery,220.0,,,,,Vista Substation,230.0,Battery,,,Battery,250.0
+SCE,,Eastern,350.0,Battery,360.624,Solar PV,360.624,,,Colorado River,230.0,Battery,Solar,,Hybrid (Solar+Storage),350.0
+SCE,,Eastern,400.0,Battery,404.1,,,,,Devers Substaion,230.0,Battery,,,Battery,400.0
+SCE,,Eastern,250.0,Battery,250.0,Solar PV,250.0,,,Red Bluff Substation,220.0,Battery,Solar,,Hybrid (Solar+Storage),250.0
+SCE,,Eastern,200.0,Battery,200.0,,,,,Vista Substation,230.0,Battery,,,Battery,200.0
+SCE,,Eastern,300.0,Battery,300.0,Solar PV,300.0,,,Devers-El Casco,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+SCE,,Eastern,250.0,Battery,250.0,,,,,Mirage Substation,230.0,Battery,,,Battery,250.0
+SCE,,Eastern,250.0,Battery,250.0,,,,,Red Bluff Substation,230.0,Battery,,,Battery,250.0
+SCE,,Eastern,250.0,Battery,250.0,,,,,Red Bluff Substation,230.0,Battery,,,Battery,250.0
+SCE,,Eastern,650.0,Battery,675.65,Solar PV,675.65,,,Red Bluff Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),650.0
+SCE,,Eastern,350.0,Battery,358.4412,,,,,San Bernardino Substation,220.0,Battery,,,Battery,350.0
+SCE,,Eastern,200.0,Battery,205.92,Wind Turbine,207.0,Solar PV,205.9,Devers Substation,220.0,Battery,Wind,Solar,Hybrid (Solar+Storage),200.0
+SCE,,Eastern,300.0,Battery,308.0,Wind Turbine,308.0,Solar PV,308.0,Blythe Substation,161.0,Battery,Wind,Solar,Hybrid (Solar+Storage),300.0
+SCE,,Eastern,320.0,Battery,324.4,Solar PV,324.4,,,Eagle Mountain Substation,161.0,Battery,Solar,,Hybrid (Solar+Storage),320.0
+SCE,,Eastern,350.0,Battery,354.2,Solar PV,354.2,,,Red Bluff Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),350.0
+SCE,,Eastern,280.0,Solar PV,288.144,,,,,Blythe Substation,161.0,Solar,,,Solar,280.0
+SCE,,Eastern,400.0,Battery,410.76,,,,,Valley Substation,500.0,Battery,,,Battery,400.0
+SCE,,Eastern,1400.0,Battery,1415.4,Pumped Storage,1434.4,,,Red Bluff Substation,500.0,Battery,Battery,,Battery,1400.0
+SCE,,Eastern,400.0,Battery,404.8,Solar PV,65.0,,,Mirage Substation,220.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+SCE,,Eastern,1000.0,Battery,1000.0,Solar PV,1000.0,,,Colorado River - Palo Verde 500kV Series Capacitor Station,500.0,Battery,Solar,,Hybrid (Solar+Storage),1000.0
+SCE,,Eastern,123.0,Battery,510.21,,,,,Julian Hinds Substation,230.0,Battery,,,Battery,123.0
+SCE,,Northern,1000.0,Battery,1030.455,,,,,Moorpark Substation,230.0,Battery,,,Battery,1000.0
+SCE,,Northern,600.0,Battery,623.48,Solar PV,623.48,,,Whirlwind Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),600.0
+SCE,,Northern,400.0,Battery,400.0,,,,,Vincent Substation,230.0,Battery,,,Battery,400.0
+SCE,,Northern,300.0,Battery,306.7,Solar PV,306.7,,,Whirlwind Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+SCE,,Northern,250.0,Battery,261.0,,,,,Rector Substation,230.0,Battery,,,Battery,250.0
+SCE,,Northern,250.0,Battery,250.0,,,,,Antelope Substation,230.0,Battery,,,Battery,250.0
+SCE,,Northern,500.0,Battery,500.0,,,,,Vincent Substation,230.0,Battery,,,Battery,500.0
+SCE,,Northern,150.0,Battery,153.5,Solar PV,153.5,,,Vincent Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+SCE,,Northern,200.0,Battery,204.5175,,,,,Moorpark Substation,230.0,Battery,,,Battery,200.0
+SCE,,Northern,300.0,Battery,300.0,,,,,Antelope Valley Substation,230.0,Battery,,,Battery,300.0
+SCE,,Northern,500.0,Battery,500.0,Solar PV,500.0,,,Windhub Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),500.0
+SCE,,Northern,500.0,Battery,500.0,,,,,Moorpark Substation,230.0,Battery,,,Battery,500.0
+SCE,,Northern,250.0,Battery,250.0,Solar PV,250.0,,,Highwind Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),250.0
+SCE,,Northern,150.0,Battery,150.0,,,,,Rector Substation,230.0,Battery,,,Battery,150.0
+SCE,,Northern,350.0,Battery,356.832,Solar PV,356.832,,,Springvale Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),350.0
+SCE,,Northern,79.0,Battery,82.239,,,,,Neenach Substation,66.0,Battery,,,Battery,79.0
+SCE,,Northern,150.0,Battery,154.089,,,,,Windhub Substation,230.0,Battery,,,Battery,150.0
+SCE,,Northern,200.0,Battery,200.0,Solar PV,200.0,,,Antelope Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,Northern,20.0,Battery,12.0,Solar PV,20.0,,,Antelope - Neenach 66kV line,66.0,Battery,Solar,,Hybrid (Solar+Storage),20.0
+SCE,,Northern,200.0,Battery,200.0,Solar PV,200.0,,,Vestal Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,Northern,200.0,Battery,200.0,Solar PV,200.0,,,Springville Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,Northern,150.0,Battery,150.0,,,,,Moorpark Substation,230.0,Battery,,,Battery,150.0
+SCE,,Northern,325.0,Battery,325.0,Solar PV,325.0,,,Vincent Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),325.0
+SCE,,Northern,350.0,Battery,225.0,Solar PV,372.3,,,Whirlwind Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),350.0
+SCE,,Northern,80.0,Solar PV,82.8,,,,,Springville Substation,230.0,Solar,,,Solar,80.0
+SCE,,Northern,210.0,Battery,102.672,Solar PV,113.832,,,Antelope-Magunden line,230.0,Battery,Solar,,Hybrid (Solar+Storage),210.0
+SCE,,Northern,200.0,Battery,214.0983,Solar PV,215.4124,,,Rector Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,Northern,300.0,Battery,300.0,,,,,Antelope Substation,220.0,Battery,,,Battery,300.0
+SCE,,Northern,150.0,Battery,152.6,,,,,Bailey Substation,230.0,Battery,,,Battery,150.0
+SCE,,Northern,400.0,Battery,410.76,Solar PV,410.76,,,Rector-Vestal line,230.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+SCE,,Northern,460.0,Battery,350.0,Solar PV,462.42,,,Springville Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),460.0
+SCE,,Northern,500.0,Pumped Storage,506.0,,,,,Windhub Substation,230.0,Battery,,,Battery,500.0
+SCE,,Northern,660.0,Battery,672.0,,,,,Moorpark Substation,230.0,Battery,,,Battery,660.0
+SCE,,Northern,200.0,Battery,214.0983,Solar PV,215.4124,,,Vestal Substation,220.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,Northern,500.0,Battery,513.2,,,,,Whirlwind Substation,500.0,Battery,,,Battery,500.0
+SCE,,Northern,465.0,Battery,473.0,,,,,Moorpark Substation,230.0,Battery,,,Battery,465.0
+SCE,,Northern,250.0,Battery,256.0,,,,,Highwind Substation,230.0,Battery,,,Battery,250.0
+SCE,,Northern,400.0,Battery,407.63,Solar PV,407.63,,,Whirlwind-Windhub line,500.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+SCE,,Northern,200.0,Battery,213.55,,,,,Vestal Substation,230.0,Battery,,,Battery,200.0
+SCE,,NOL,200.0,Battery,206.091,Solar PV,206.091,,,Kramer-Victor line,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,NOL,400.0,Battery,400.0,,,,,Kramer-Lugo #1 line,220.0,Battery,,,Battery,400.0
+SCE,,NOL,55.0,Battery,55.0,Solar PV,55.0,,,Calcite Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),55.0
+SCE,,NOL,200.0,Battery,200.0,Solar PV,200.0,,,Pisgah Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,NOL,200.0,Battery,200.0,Solar PV,200.0,,,Victor Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,NOL,200.0,Battery,200.0,Solar PV,200.0,,,Victor-Lugo line,500.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,NOL,200.0,Battery,200.0,Solar PV,200.0,,,Kramer Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+SCE,,NOL,400.0,Battery,404.25,,,,,Victorville Substation,230.0,Battery,,,Battery,400.0
+SCE,,NOL,300.0,Battery,312.96,Solar PV,312.96,,,Pisgah Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+SCE,,NOL,400.0,Battery,410.76,,,,,Victor Substation,230.0,Battery,,,Battery,400.0
+SCE,,NOL,500.0,Battery,512.58,,,,,Lugo Substation,500.0,Battery,,,Battery,500.0
+SCE,,NOL,500.0,Battery,500.0,,,,,Mira Loma-Vista line,230.0,Battery,,,Battery,500.0
+SCE,,NOL,311.0,Steam Turbine,391.0,,,,,Control Substation,115.0,Other,,,Other,311.0
+SCE,,NOL,150.0,Wind Turbine,150.0,,,,,Lugo-Pisgah line,230.0,Wind,,,Wind,150.0
+SCE,,NOL,150.0,Solar PV,150.0,Wind Turbine,150.0,,,Kramer Substation,230.0,Solar,Wind,,Hybrid (Other),150.0
+SCE,,Metro,400.0,Battery,400.0,,,,,Hinson Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,200.0,Battery,200.0,,,,,La Cienega Substation,230.0,Battery,,,Battery,200.0
+SCE,,Metro,400.0,Battery,400.0,,,,,Lighthipe Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,400.0,Battery,400.0,,,,,Mira Loma Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,400.0,Battery,400.0,,,,,Rio Hondo Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,400.0,Battery,400.0,,,,,Chino Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,400.0,Battery,400.0,,,,,La Cienega Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,400.0,Battery,400.0,,,,,Walnut Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,400.0,Battery,400.0,,,,,El Nido Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,400.0,Battery,400.0,,,,,Etiwanda Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,400.0,Battery,400.0,,,,,Center Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,250.0,Battery,250.0,,,,,Villa Park Substation,230.0,Battery,,,Battery,250.0
+SCE,,Metro,300.0,Battery,307.0,Solar PV,307.0,,,Laguna Bell Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+SCE,,Metro,1600.0,Battery,1600.0,,,,,Etiwanda Substation,230.0,Battery,,,Battery,1600.0
+SCE,,Metro,200.0,Battery,200.0,,,,,Wildlife Substation,230.0,Battery,,,Battery,200.0
+SCE,,Metro,100.0,Battery,102.26,,,,,Johanna Substation,230.0,Battery,,,Battery,100.0
+SCE,,Metro,252.0,Battery,252.0,,,,,Mesa Substation,230.0,Battery,,,Battery,252.0
+SCE,,Metro,400.0,Battery,403.5,,,,,Mira Loma Substation,230.0,Battery,,,Battery,400.0
+SCE,,Metro,500.0,Battery,504.2,,,,,La Cienega Substation,230.0,Battery,,,Battery,500.0
+SCE,,Metro,300.0,Battery,302.4,,,,,Rio Hondo Substation,230.0,Battery,,,Battery,300.0
+SCE,,Metro,300.0,Battery,302.4,,,,,Barre Substation,230.0,Battery,,,Battery,300.0
+SCE,,Metro,550.0,Battery,550.0,,,,,Mira Loma-Chino line,230.0,Battery,,,Battery,550.0
+SCE,,Metro,200.0,Battery,204.5175,,,,,Mira Loma Substation,230.0,Battery,,,Battery,200.0
+SCE,,Metro,100.0,Battery,102.26,,,,,Laguna Bell Substation,230.0,Battery,,,Battery,100.0
+SCE,,Metro,236.0,Battery,241.5,,,,,Alamitos Substation,220.0,Battery,,,Battery,236.0
+SCE,,Metro,250.0,Battery,252.0,,,,,Etiwanda Substation,230.0,Battery,,,Battery,250.0
+SCE,,Metro,200.0,Battery,200.0,,,,,Walnut Substation,230.0,Battery,,,Battery,200.0
+SCE,,Metro,150.0,Battery,150.0,,,,,Chino Substation,230.0,Battery,,,Battery,150.0
+SCE,,Metro,163.0,Battery,171.738,,,,,Sylmar-Gould line,230.0,Battery,,,Battery,163.0
+SCE,,Metro,300.0,Battery,300.0,,,,,Hinson Substation,230.0,Battery,,,Battery,300.0
+SCE,,Metro,300.0,Battery,312.96,,,,,Mira Loma Substation,230.0,Battery,,,Battery,300.0
+SCE,,Metro,500.0,Solar PV,512.58,,,,,Mira Loma Substation,230.0,Solar,,,Solar,500.0
+SCE,,Metro,300.0,Battery,300.0,,,,,Serrano Substation,220.0,Battery,,,Battery,300.0
+SCE,,Metro,250.0,Battery,256.29,,,,,Laguna Bell Substation,230.0,Battery,,,Battery,250.0
+SCE,GLW/VEA,EOP,250.0,Battery,250.0,Solar PV,250.0,,,Mohave Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),250.0
+SCE,GLW/VEA,EOP,250.0,Battery,256.29,,,,,Eldorado Substation (SCE owned portion),230.0,Battery,,,Battery,250.0
+GLW,VEA/SCE,EOP,500.0,Battery,516.7638,Solar PV,516.7638,,,Gamebird Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),500.0
+GLW,VEA/SCE,EOP,350.0,Battery,350.0,Solar PV,350.0,,,Desert View Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),350.0
+GLW,VEA/SCE,EOP,500.0,Battery,500.0,Solar PV,500.0,,,Trout Canyon Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),500.0
+GLW,VEA/SCE,EOP,500.0,Battery,508.56,Solar PV,508.56,,,Trout Canyon Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),500.0
+GLW,VEA/SCE,EOP,300.0,Battery,307.0,Solar PV,307.0,,,Trout Canyon Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+VEA,GLW/SCE,EOP,500.0,Battery,500.0,Solar PV,500.0,,,Valley Switch- Lathrop Wells line,138.0,Battery,Solar,,Hybrid (Solar+Storage),500.0
+VEA,GLW/SCE,EOP,427.0,Steam Turbine,530.0,,,,,Beatty Substation,138.0,Other,,,Other,427.0
+VEA,GLW/SCE,EOP,500.0,Battery,508.56,,,,,Beatty Substation,138.0,Battery,,,Battery,500.0
+VEA,GLW/SCE,EOP,220.0,Battery,110.79,Solar PV,223.32,,,Vista Substation,138.0,Battery,Solar,,Hybrid (Solar+Storage),220.0
+SDGE,,SDGE,300.0,Battery,300.0,,,,,Chicarita Substation,138.0,Battery,,,Battery,300.0
+SDGE,,SDGE,100.0,Battery,100.65,,,,,Loveland Substation,69.0,Battery,,,Battery,100.0
+SDGE,,SDGE,300.0,Battery,312.96,,,,,Suncrest Substation,230.0,Battery,,,Battery,300.0
+SDGE,,SDGE,150.0,Battery,150.0,,,,,Bernardo Substation,69.0,Battery,,,Battery,150.0
+SDGE,,SDGE,100.0,Battery,100.0,,,,,Border Substation,69.0,Battery,,,Battery,100.0
+SDGE,,SDGE,400.0,Battery,313.919228,Wind Turbine,105.8,,,Suncrest-Ocotillo line,500.0,Battery,Wind,,Hybrid (Other),400.0
+SDGE,,SDGE,300.0,Battery,312.96,,,,,Otay Mesa Substation,230.0,Battery,,,Battery,300.0
+SDGE,,SDGE,600.0,Battery,615.756,,,,,Otay Mesa Substation,230.0,Battery,,,Battery,600.0
+SDGE,,SDGE,1150.0,Battery,1182.38,Solar PV,1182.38,,,North Gila-Imperial Valley line,500.0,Battery,Solar,,Hybrid (Solar+Storage),1150.0
+SDGE,,SDGE,900.0,Wind Turbine,940.8,,,,,ECO Substation,500.0,Wind,,,Wind,900.0
+SDGE,,SDGE,200.0,Battery,200.0,,,,,Miguel Substation,230.0,Battery,,,Battery,200.0
+SDGE,,SDGE,50.0,Battery,51.52,,,,,Border Substation,69.0,Battery,,,Battery,50.0
+SDGE,,SDGE,200.0,Battery,213.5487,,,,,Silvergate Substation,230.0,Battery,,,Battery,200.0
+SDGE,,SDGE,250.0,Battery,256.29,,,,,Otay Mesa Substation,230.0,Battery,,,Battery,250.0
+SDGE,,SDGE,50.0,Battery,51.4,,,,,Miguel Substation,69.0,Battery,,,Battery,50.0
+SDGE,,SDGE,300.0,Battery,300.0,,,,,Encina Substation,138.0,Battery,,,Battery,300.0
+SDGE,,SDGE,150.0,Battery,150.0,,,,,ESCO Substation,69.0,Battery,,,Battery,150.0
+SDGE,,SDGE,70.0,Battery,71.199,,,,,Scripps Substation,69.0,Battery,,,Battery,70.0
+SDGE,,SDGE,80.0,Battery,81.5,,,,,Spring Valley Substation,69.0,Battery,,,Battery,80.0
+SDGE,,SDGE,150.0,Battery,154.6,,,,,Border Substation,69.0,Battery,,,Battery,150.0
+SDGE,,SDGE,800.0,Battery,823.85,Solar PV,823.85,,,Hoodoo Wash-Hassayampa line,500.0,Battery,Solar,,Hybrid (Solar+Storage),800.0
+SDGE,,SDGE,300.0,Battery,308.2086,,,,,Suncrest Substation,230.0,Battery,,,Battery,300.0
+SDGE,,SDGE,100.0,Battery,100.0,,,,,Otay Mesa Substation,230.0,Battery,,,Battery,100.0
+SDGE,,SDGE,80.0,Solar PV,82.8,,,,,Boulevard East Substation,69.0,Solar,,,Solar,80.0
+SDGE,,SDGE,200.0,Battery,206.31,,,,,Boulevard East Substation,138.0,Battery,,,Battery,200.0
+SDGE,,SDGE,100.0,Battery,100.0,,,,,Border-Border Tap line,69.0,Battery,,,Battery,100.0
+SDGE,,SDGE,150.0,Battery,150.0,,,,,Jamacha-Miguel line,69.0,Battery,,,Battery,150.0
+SDGE,,SDGE,100.0,Battery,102.04,,,,,Otay Lake Substation,69.0,Battery,,,Battery,100.0
+SDGE,,SDGE,300.0,Battery,300.0,,,,,Rancho Mission Viejo Substation,138.0,Battery,,,Battery,300.0
+SDGE,,SDGE,400.0,Battery,400.0,,,,,Hassayampa-North Gila line,500.0,Battery,,,Battery,400.0
+SDGE,,SDGE,400.0,Battery,400.0,,,,,Talega Substation,230.0,Battery,,,Battery,400.0
+SDGE,,SDGE,50.0,Battery,51.208,,,,,Friars Substation,138.0,Battery,,,Battery,50.0
+SDGE,,SDGE,150.0,Battery,150.0,,,,,Carrizo Gorge Switchyard,138.0,Battery,,,Battery,150.0
+SDGE,,SDGE,300.0,Battery,300.0,Solar PV,300.0,,,Hoodoo Wash Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+SDGE,,SDGE,250.0,Battery,256.29,,,,,San Luis Rey Substation,230.0,Battery,,,Battery,250.0
+SDGE,,SDGE,300.0,Battery,300.0,,,,,Trabuco Substation,138.0,Battery,,,Battery,300.0
+SDGE,,SDGE,300.0,Solar PV,300.0,,,,,Imperial Valley Substation,230.0,Solar,,,Solar,300.0
+SDGE,,SDGE,100.0,Battery,101.9,,,,,Chicarita Substation,138.0,Battery,,,Battery,100.0
+SDGE,,SDGE,100.0,Battery,105.0,,,,,Ocean Ranch Substation,69.0,Battery,,,Battery,100.0
+SDGE,,SDGE,250.0,Battery,261.0,,,,,Carlton Hills Substation,138.0,Battery,,,Battery,250.0
+SDGE,,SDGE,600.0,Battery,632.5,,,,,Imperial Valley Substation,230.0,Battery,,,Battery,600.0
+PGE,,Kern,130.0,Battery,65.55,Solar PV,131.68,,,Solar Switching Station,230.0,Battery,Solar,,Hybrid (Solar+Storage),130.0
+PGE,,Kern,101.5,Battery,101.5,,,,,Hollister Line,115.0,Battery,,,Battery,101.5
+PGE,,Kern,98.0,Battery,50.0,Solar PV,98.0,,,Wheeler Ridge Substation,70.0,Battery,Solar,,Hybrid (Solar+Storage),98.0
+PGE,,Kern,82.9,Battery,83.0,,,,,7th Standard Substation,115.0,Battery,,,Battery,82.9
+PGE,,Fresno,190.0,Solar PV,196.56,,,,,Alpaugh Substation,138.0,Solar,,,Solar,190.0
+PGE,,Fresno,250.0,Battery,268.6432,Solar PV,270.0534,,,Alpaugh Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),250.0
+PGE,,Fresno,150.0,Battery,153.5,Solar PV,153.5,,,Alpaugh Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,NGBA,60.0,Battery,60.0,,,,,Apple Hill Substation,115.0,Battery,,,Battery,60.0
+PGE,,NGBA,250.08,Battery,88.0,Solar PV,162.0,,,Rio Oso - Table Mountain Line,230.0,Battery,Solar,,Hybrid (Solar+Storage),250.08
+PGE,,Kern,400.0,Battery,412.336,Solar PV,412.336,,,Arco Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+PGE,,Kern,150.0,Battery,150.0,Solar PV,150.0,,,Arco Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,Kern,30.0,Battery,30.0,,,,,Arco - Carneras Line,70.0,Battery,,,Battery,30.0
+PGE,,Kern,100.0,Battery,101.85577,,,,,Bear Mountain - Bear Mountain Tap Line,115.0,Battery,,,Battery,100.0
+PGE,,GBA,400.0,Battery,407.85,Solar PV,407.85,,,Bellota Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+PGE,,NGBA,200.0,Battery,213.55,,,,,Bellota Substation,230.0,Battery,,,Battery,200.0
+PGE,,NGBA,350.0,Battery,356.592,Solar PV,357.396,,,Bellota Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),350.0
+PGE,,NGBA,300.0,Battery,315.96,,,,,Bellota Substation,230.0,Battery,,,Battery,300.0
+PGE,,NGBA,250.0,Battery,257.72,Solar PV,257.72,,,Bellota Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),250.0
+PGE,,GBA,100.0,Battery,102.6,,,,,Bellota Substation,115.0,Battery,,,Battery,100.0
+PGE,,GBA,110.0,Solar PV,113.832,,,,,"Berranda ""C"" Tap Line",69.0,Solar,,,Solar,110.0
+PGE,,NGBA,100.0,Battery,110.84,,,,,Birds Landing Substation,230.0,Battery,,,Battery,100.0
+PGE,,Fresno,200.0,Battery,200.0,,,,,Borden Substation,230.0,Battery,,,Battery,200.0
+PGE,,Fresno,200.0,Battery,200.0,Solar PV,200.0,,,Borden Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+PGE,,Kern,150.0,Battery,406.142,,,,,Caliente Switching Station,230.0,Battery,,,Battery,150.0
+PGE,,Kern,60.0,Battery,30.22,Solar PV,60.61,,,California Flats Switching Station,230.0,Battery,Solar,,Hybrid (Solar+Storage),60.0
+PGE,,Fresno,45.0,Battery,45.0,Solar PV,46.4,,,Cantua Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),45.0
+PGE,,NGBA,20.0,Battery,20.0,,,,,Cloverdale Jct,60.0,Battery,,,Battery,20.0
+PGE,,Kern,150.0,Battery,152.8,Solar PV,153.1,,,Coburn Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,Kern,120.0,Battery,120.0,,,,,Coburn - Basic Energy Tap Line,60.0,Battery,,,Battery,120.0
+PGE,,GBA,200.0,Battery,200.0,,,,,Contra Costa Substation,230.0,Battery,,,Battery,200.0
+PGE,,GBA,300.0,Battery,307.878,,,,,Contra Costa - Contra Costa Power Plant Line,230.0,Battery,,,Battery,300.0
+PGE,,GBA,250.0,Battery,256.29,,,,,Contra Costa Substation,230.0,Battery,,,Battery,250.0
+PGE,,GBA,100.0,Battery,100.9,,,,,Cooley Landing Substation,66.0,Battery,,,Battery,100.0
+PGE,,Fresno,85.0,Battery,87.5,Solar PV,87.5,,,Corcoran Substation,70.0,Battery,Solar,,Hybrid (Solar+Storage),85.0
+PGE,,NGBA,100.0,Battery,102.672,,,,,Cottle Substation,230.0,Battery,,,Battery,100.0
+PGE,,NGBA,75.0,Battery,19.75,Solar PV,88.0,,,Cottonwood - Burney Forest - Pit #1 Line,230.0,Battery,Solar,,Hybrid (Solar+Storage),75.0
+PGE,,NGBA,140.0,Solar PV,142.6,,,,,Cottonwood - Logan Creek Line,230.0,Solar,,,Solar,140.0
+PGE,,Kern,110.0,Battery,112.386,Solar PV,112.491,,,Crazy Horse Canyon - Hollister Line,115.0,Battery,Solar,,Hybrid (Solar+Storage),110.0
+PGE,,Fresno,35.0,Battery,35.951,Solar PV,35.979,,,Crescent Switching Station,70.0,Battery,Solar,,Hybrid (Solar+Storage),35.0
+PGE,,Non_PGE,110.0,Battery,111.7,,,,,Crows Landing Substation,69.0,Battery,,,Battery,110.0
+PGE,,Kern,1500.0,Battery,756.065,Wind Turbine,1518.472,,,Diablo Canyon Switching Station,500.0,Battery,Wind,,Hybrid (Other),1500.0
+PGE,,Kern,1000.0,Wind Turbine,1039.5,,,,,Diablo Canyon Switching Station,500.0,Wind,,,Wind,1000.0
+PGE,,Kern,1000.0,Wind Turbine,1028.94,,,,,Diablo Canyon Switching Station,500.0,Wind,,,Wind,1000.0
+PGE,,Kern,1400.0,Wind Turbine,1464.6,,,,,Diablo Canyon Switching Station,500.0,Wind,,,Wind,1400.0
+PGE,,Kern,60.0,Wind Turbine,61.5,,,,,Divide - Cabrillo #1 Line,115.0,Wind,,,Wind,60.0
+PGE,,GBA,62.0,Battery,62.6,,,,,Dumbarton Substation,115.0,Battery,,,Battery,62.0
+PGE,,GBA,225.0,Battery,226.8,,,,,Dumbarton - Newark Line,115.0,Battery,,,Battery,225.0
+PGE,,GBA,100.0,Battery,101.85577,,,,,Edes  Substation,115.0,Battery,,,Battery,100.0
+PGE,,Fresno,175.0,Battery,178.881,,,,,El Capitan Substation,115.0,Battery,,,Battery,175.0
+PGE,,Fresno,150.0,Battery,151.42,,,,,El Nido Substation,115.0,Battery,,,Battery,150.0
+PGE,,Fresno,125.0,Battery,127.37,Solar PV,127.57,,,Excelsior Switching Station,115.0,Battery,Solar,,Hybrid (Solar+Storage),125.0
+PGE,,GBA,160.0,Battery,165.048,,,,,Fibreboard Tap Line,115.0,Battery,,,Battery,160.0
+PGE,,GBA,150.0,Battery,152.28,,,,,FMC Substation,115.0,Battery,,,Battery,150.0
+PGE,,NGBA,200.0,Battery,213.55,,,,,Fulton Substation,115.0,Battery,,,Battery,200.0
+PGE,,NGBA,170.0,Battery,120.0,Steam Turbine Geothermal,50.0,,,Geysers #17 - Fulton Line,230.0,Battery,Geothermal,,Hybrid (Other),170.0
+PGE,,Fresno,500.0,Battery,508.56,,,,,Gates Substation,500.0,Battery,,,Battery,500.0
+PGE,,Fresno,189.91,Solar PV,192.73,,,,,Gates Substation,230.0,Solar,,,Solar,189.91
+PGE,,Fresno,200.0,Battery,202.5,Solar PV,202.5,,,Gates Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+PGE,,Kern,400.0,Battery,411.3,Solar PV,410.502,,,Gates - Midway Line,230.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+PGE,,Kern,400.0,Battery,411.3018,Solar PV,410.5024,,,Gates - Midway Line,230.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+PGE,,Fresno,1000.0,Battery,520.0,Solar PV,1040.0,,,Gates Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),1000.0
+PGE,,Fresno,300.0,Battery,300.0,Solar PV,300.0,,,Gates - Templeton Line,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+PGE,,Kern,300.0,Battery,307.0,Solar PV,307.0,,,Gates - Midway Line,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+PGE,,Fresno,100.0,Battery,101.83,Solar PV,102.1,,,Gates Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,NGBA,53.0,Steam Turbine Geothermal,61.0,,,,,Geyser #3 - Cloverdale Line,115.0,Geothermal,,,Geothermal,53.0
+PGE,,Fresno,25.0,Solar PV,25.54,,,,,Giffen Substation,70.0,Solar,,,Solar,25.0
+PGE,,NGBA,250.0,Solar PV,257.0,,,,,Glenn - Delevan Line,230.0,Solar,,,Solar,250.0
+PGE,,NGBA,200.0,Battery,214.09,,,,,Gold Hill - 8 Mile Line,230.0,Battery,,,Battery,200.0
+PGE,,GBA,250.0,Battery,252.0,,,,,Grant - Eastshore Line,115.0,Battery,,,Battery,250.0
+PGE,,Kern,200.0,Battery,200.0,,,,,Green Valley Substation,115.0,Battery,,,Battery,200.0
+PGE,,Kern,200.0,Battery,204.07,,,,,Green Valley Substation,115.0,Battery,,,Battery,200.0
+PGE,,NGBA,49.0,Battery,49.0,,,,,Greenleaf #1 Tap Line,115.0,Battery,,,Battery,49.0
+PGE,,NGBA,49.2,Battery,50.5,,,,,Greenleaf #2 Tap Line,60.0,Battery,,,Battery,49.2
+PGE,,Fresno,150.0,Battery,150.0,Solar PV,160.29,,,Gregg Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,Fresno,350.0,Battery,360.198,,,,,Gregg Substation,230.0,Battery,,,Battery,350.0
+PGE,,Fresno,60.0,Battery,60.0,Solar PV,61.8,,,Guernsey Substation,70.0,Battery,Solar,,Hybrid (Solar+Storage),60.0
+PGE,,Fresno,425.0,Battery,439.084,Solar PV,439.084,,,Helm Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),425.0
+PGE,,Fresno,200.0,Battery,200.0,Solar PV,200.0,,,Helm Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+PGE,,NGBA,100.0,Battery,100.0,Solar PV,50.0,,,Herdlyn - Balfour Line,60.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,Fresno,100.0,Battery,101.1,,,,,Huron Substation,70.0,Battery,,,Battery,100.0
+PGE,,NGBA,300.0,Battery,313.7932,,,,,Ignacio Substation,115.0,Battery,,,Battery,300.0
+PGE,,Fresno,100.0,Battery,100.65,,,,,Jacobs Corner Substation,70.0,Battery,,,Battery,100.0
+PGE,,Fresno,200.0,Battery,204.07,,,,,Kearney Substation,70.0,Battery,,,Battery,200.0
+PGE,,Kern,200.0,Battery,201.8,,,,,Kern Power Substation,230.0,Battery,,,Battery,200.0
+PGE,,Kern,110.0,Battery,114.264,,,,,Kern Power Substation,115.0,Battery,,,Battery,110.0
+PGE,,Kern,150.0,Battery,151.5,,,,,Kern Power Substation,115.0,Battery,,,Battery,150.0
+PGE,,NGBA,40.0,Battery,40.4,,,,,Konocti Substation,60.0,Battery,,,Battery,40.0
+PGE,,NGBA,300.0,Battery,300.0,,,,,Lakeville Substation,115.0,Battery,,,Battery,300.0
+PGE,,NGBA,100.0,Battery,102.2112,,,,,Lakeville Substation,60.0,Battery,,,Battery,100.0
+PGE,,NGBA,250.0,Battery,252.0,,,,,Lakeville - Tulucay Line,230.0,Battery,,,Battery,250.0
+PGE,,NGBA,400.0,Battery,400.0,,,,,Lambie Switching Station,230.0,Battery,,,Battery,400.0
+PGE,,Kern,100.0,Battery,100.0,,,,,Lamont Substation,115.0,Battery,,,Battery,100.0
+PGE,,Kern,100.0,Battery,101.85577,Solar PV,102.4167,,,Lamont Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,Kern,100.0,Battery,100.9,,,,,Lamont Substation,115.0,Battery,,,Battery,100.0
+PGE,,Kern,75.0,Battery,76.2,,,,,Lamont Substation,115.0,Battery,,,Battery,75.0
+PGE,,Fresno,300.0,Battery,307.0,Solar PV,307.0,,,Los Banos Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+PGE,,Fresno,150.0,Battery,154.362,Solar PV,154.362,,,Le Grand Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,Fresno,150.0,Battery,150.0,Solar PV,150.0,,,Le Grand Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,Fresno,100.0,Battery,101.1,,,,,Le Grand Substation,115.0,Battery,,,Battery,100.0
+PGE,,Fresno,130.0,Battery,65.47,Solar PV,131.43,,,Le Grand Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),130.0
+PGE,,GBA,100.0,Battery,100.0,,,,,Llagas Substation,115.0,Battery,,,Battery,100.0
+PGE,,NGBA,100.0,Battery,100.0,,,,,Lockeford Substation,230.0,Battery,,,Battery,100.0
+PGE,,NGBA,150.0,Battery,150.0,Solar PV,160.19,,,Logan Creek Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,GBA,62.0,Battery,62.5,,,,,Meadows - Lakewood Line,115.0,Battery,,,Battery,62.0
+PGE,,GBA,55.0,Battery,55.5,,,,,Millbrae - San Mateo #1 Line,115.0,Battery,,,Battery,55.0
+PGE,,GBA,150.0,Battery,151.3,,,,,Oakland J - Grant Line,115.0,Battery,,,Battery,150.0
+PGE,,Fresno,1150.0,Battery,1150.0,,,,,Los Banos Substation,500.0,Battery,,,Battery,1150.0
+PGE,,Fresno,550.0,Battery,550.0,,,,,Los Banos Substation,500.0,Battery,,,Battery,550.0
+PGE,,Fresno,100.0,Battery,101.0,,,,,Los Banos Substation,230.0,Battery,,,Battery,100.0
+PGE,,GBA,500.0,Battery,509.8,,,,,Los Esteros Substation,230.0,Battery,,,Battery,500.0
+PGE,,GBA,250.0,Battery,256.29,,,,,Los Esteros Substation,230.0,Battery,,,Battery,250.0
+PGE,,NGBA,118.4,Wind Turbine,120.0,,,,,Lower Lake Substationm,115.0,Wind,,,Wind,118.4
+PGE,,Fresno,750.0,Battery,772.245,,,,,McCall Substation,230.0,Battery,,,Battery,750.0
+PGE,,Fresno,150.0,Battery,152.8,Solar PV,153.1,,,Mendota Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,GBA,100.0,Battery,100.0,,,,,Metcalf - Edenvale #2 Line,115.0,Battery,,,Battery,100.0
+PGE,,Kern,1000.0,Battery,1000.0,Solar PV,1000.0,,,Midway Substation,500.0,Battery,Solar,,Hybrid (Solar+Storage),1000.0
+PGE,,Kern,352.09,Solar PV,358.875,,,,,Midway Substation,230.0,Solar,,,Solar,352.09
+PGE,,Kern,100.0,Battery,100.9,,,,,Midway Substation,230.0,Battery,,,Battery,100.0
+PGE,,Kern,100.0,Battery,101.95,Solar PV,101.95,,,Midway Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,Kern,115.0,Battery,115.0,,,,,Midway Substation,115.0,Battery,,,Battery,115.0
+PGE,,Kern,137.85,Solar PV,139.7,,,,,Midway - Wheeler Ridge Line,230.0,Solar,,,Solar,137.85
+PGE,,GBA,40.0,Battery,40.36,,,,,Milpitas Substation,115.0,Battery,,,Battery,40.0
+PGE,,GBA,500.0,Battery,500.0,,,,,Monte Vista Substation,230.0,Battery,,,Battery,500.0
+PGE,,Kern,602.2678,Wind Turbine,602.2678,,,,,Morro Bay Switching Station,230.0,Wind,,,Wind,602.2678
+PGE,,Kern,1500.0,Battery,756.813,Wind Turbine,1525.17,,,Moss Landing Substation,500.0,Battery,Wind,,Hybrid (Other),1500.0
+PGE,,Fresno,1150.0,Battery,1182.384,Solar PV,1182.384,,,Los Banos - Gates #1 Line,500.0,Battery,Solar,,Hybrid (Solar+Storage),1150.0
+PGE,,GBA,150.0,Battery,150.0,,,,,Newark Substation,230.0,Battery,,,Battery,150.0
+PGE,,GBA,252.0,Battery,252.0,,,,,Newark Substation,230.0,Battery,,,Battery,252.0
+PGE,,GBA,50.0,Battery,50.0,,,,,Newark - KRS Line,115.0,Battery,,,Battery,50.0
+PGE,,GBA,150.0,Battery,153.5,Solar PV,153.5,,,Oakland Station J Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,Kern,150.0,Battery,153.5,Solar PV,153.5,,,Old River Substation,70.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,Kern,160.0,Battery,163.268,Solar PV,163.268,,,Olive Switching Station,115.0,Battery,Solar,,Hybrid (Solar+Storage),160.0
+PGE,,Fresno,200.0,Battery,213.55,,,,,Panoche Substation,115.0,Battery,,,Battery,200.0
+PGE,,Fresno,250.0,Battery,264.3,Solar PV,264.3,,,Panoche Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),250.0
+PGE,,Fresno,115.0,Battery,115.0,Solar PV,115.0,,,Panoche Substation,,Battery,Solar,,Hybrid (Solar+Storage),115.0
+PGE,,NGBA,400.0,Battery,400.0,,,,,Peabody Substation,230.0,Battery,,,Battery,400.0
+PGE,,Kern,75.0,Battery,75.0,,,,,Callender Switching Station,115.0,Battery,,,Battery,75.0
+PGE,,Fresno,100.0,Battery,100.0,,,,,Las Aguinas Switchyard,230.0,Battery,,,Battery,100.0
+PGE,,GBA,250.0,Battery,250.0,,,,,"Martin ""H"" Substation",115.0,Battery,,,Battery,250.0
+PGE,,Fresno,300.0,Battery,305.0,,,,,Moraga Substation,230.0,Battery,,,Battery,300.0
+PGE,,Fresno,330.0,Battery,337.0,,,,,Kearney Substation,230.0,Battery,,,Battery,330.0
+PGE,,GBA,100.0,Battery,100.0,,,,,Piercy Substation,115.0,Battery,,,Battery,100.0
+PGE,,GBA,500.0,Battery,504.2,,,,,Pittsburg Substation,230.0,Battery,,,Battery,500.0
+PGE,,GBA,175.0,Battery,179.4,,,,,Pittsburg Substation,230.0,Battery,,,Battery,175.0
+PGE,,GBA,500.0,Battery,504.0,,,,,Pittsburg - Tesla Line,230.0,Battery,,,Battery,500.0
+PGE,,GBA,220.0,Battery,224.986,,,,,Pittsburg Substation,230.0,Battery,,,Battery,220.0
+PGE,,GBA,500.0,Battery,504.0,,,,,Pittsburg Substation,230.0,Battery,,,Battery,500.0
+PGE,,GBA,200.0,Battery,201.6,,,,,Pittsburg - Kirker - USP Line,115.0,Battery,,,Battery,200.0
+PGE,,GBA,500.0,Battery,504.0,,,,,Pittsburg - San Mateo Line,230.0,Battery,,,Battery,500.0
+PGE,,NGBA,0.0,Battery,20.4,,,,,Crow Creek Switching Station,60.0,Battery,,,Battery,0.0
+PGE,,Fresno,0.0,Battery,61.0,,,,,Excelsior Switching Station,115.0,Battery,,,Battery,0.0
+PGE,,Fresno,0.0,Battery,20.4,,,,,Henrietta - Tulare Lake Line,70.0,Battery,,,Battery,0.0
+PGE,,Fresno,150.0,Wind Turbine,150.0,,,,,Quinto Switching Station,230.0,Wind,,,Wind,150.0
+PGE,,NGBA,400.0,Battery,407.42,Solar PV,408.4,,,Rancho Seco - Bellota #1 Line,230.0,Battery,Solar,,Hybrid (Solar+Storage),400.0
+PGE,,GBA,125.0,Battery,126.0,,,,,"Richmond ""R"" Substation",115.0,Battery,,,Battery,125.0
+PGE,,NGBA,100.0,Battery,110.84,Solar PV,110.84,,,Rio Oso Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,NGBA,300.0,Battery,306.55,Solar PV,306.55,,,Rio Oso - Atlantic Line,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+PGE,,Kern,100.0,Battery,102.28,Solar PV,103.17,,,San Bernard Substation,60.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,Fresno,200.0,Battery,203.699,,,,,Sanger Substation,115.0,Battery,,,Battery,200.0
+PGE,,Fresno,100.0,Battery,105.735,Solar PV,105.735,,,Santa Nella Substation,70.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,NGBA,210.0,Battery,189.3015,Solar PV,26.784,,,Santa Rosa - Corona Line,115.0,Battery,Solar,,Hybrid (Solar+Storage),210.0
+PGE,,NGBA,450.0,Battery,462.57,,,,,Schulte Switching Station,115.0,Battery,,,Battery,450.0
+PGE,,NGBA,150.0,Battery,151.3,,,,,Schulte Switching Station,115.0,Battery,,,Battery,150.0
+PGE,,GBA,200.0,Battery,213.55,,,,,Schulte Switching Station,115.0,Battery,,,Battery,200.0
+PGE,,Kern,100.0,Battery,101.85577,Solar PV,102.4167,,,Semitropic Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,Kern,100.0,Battery,101.86,Solar PV,102.4167,,,Shafter Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,NGBA,100.0,Battery,101.8,,,,,Silverado Substation,115.0,Battery,,,Battery,100.0
+PGE,,Kern,100.0,Battery,100.0,Solar PV,100.0,,,Smyrna Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,GBA,150.0,Battery,151.2,,,,,Sobrante - Standard Oil Sw Sta Line,115.0,Battery,,,Battery,150.0
+PGE,,NGBA,200.0,Battery,205.1,,,,,Table Mountain Substation,115.0,Battery,,,Battery,200.0
+PGE,,NGBA,225.0,Battery,232.1,Solar PV,232.1,,,Table Mountain Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),225.0
+PGE,,Kern,500.0,Battery,514.83,,,,,Templeton Substation,230.0,Battery,,,Battery,500.0
+PGE,,GBA,600.0,Battery,615.756,,,,,Tesla Substation,230.0,Battery,,,Battery,600.0
+PGE,,GBA,200.0,Battery,213.55,,,,,Tesla Substation,230.0,Battery,,,Battery,200.0
+PGE,,GBA,300.0,Battery,312.96,,,,,Tesla Substation,230.0,Battery,,,Battery,300.0
+PGE,,GBA,500.0,Battery,515.418,,,,,Tesla Substation,230.0,Battery,,,Battery,500.0
+PGE,,GBA,500.0,Battery,504.0,,,,,Tesla - Newark #2 Line,230.0,Battery,,,Battery,500.0
+PGE,,Kern,1149.088,Battery,319.35,Wind Turbine,1216.0,,,Diablo Canyon - Gates Line,500.0,Battery,Wind,,Hybrid (Other),1149.088
+PGE,,Fresno,200.0,Battery,206.091,Solar PV,206.091,,,Tranquility Switching Station,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+PGE,,Fresno,200.0,Battery,203.66,Solar PV,203.85,,,Tranquility Switching Station,230.0,Battery,Solar,,Hybrid (Solar+Storage),200.0
+PGE,,Fresno,100.0,Battery,100.0,,,,,Tranquility Switching Station,230.0,Battery,,,Battery,100.0
+PGE,,Kern,100.0,Battery,101.85577,Solar PV,102.4167,,,Tupman Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),100.0
+PGE,,NGBA,100.0,Battery,102.2,,,,,Vaca Dixon Substation,60.0,Battery,,,Battery,100.0
+PGE,,Kern,400.0,Battery,410.76,,,,,Vaca Dixon Substation,230.0,Battery,,,Battery,400.0
+PGE,,NGBA,700.0,Battery,710.2,,,,,Vaca Dixon Substation,500.0,Battery,,,Battery,700.0
+PGE,,NGBA,150.0,Battery,150.0,Solar PV,150.0,,,Valley Home Substation,115.0,Battery,Solar,,Hybrid (Solar+Storage),150.0
+PGE,,NGBA,100.0,Battery,100.0,,,,,Valley Springs Substation,60.0,Battery,,,Battery,100.0
+PGE,,NGBA,350.0,Battery,361.836,,,,,Weber Substation,60.0,Battery,,,Battery,350.0
+PGE,,Fresno,175.0,Battery,178.192,,,,,West Fresno Substation,115.0,Battery,,,Battery,175.0
+PGE,,Fresno,300.0,Battery,312.96,,,,,Westly - Quinto Line,230.0,Battery,,,Battery,300.0
+PGE,,Kern,300.0,Battery,310.63,Solar PV,310.63,,,Wheeler Ridge Substation,230.0,Battery,Solar,,Hybrid (Solar+Storage),300.0
+PGE,,Fresno,200.0,Battery,203.699,,,,,Wilson Substation,115.0,Battery,,,Battery,200.0
+PGE,,Fresno,250.0,Battery,256.29,,,,,Wilson Substation,230.0,Battery,,,Battery,250.0
