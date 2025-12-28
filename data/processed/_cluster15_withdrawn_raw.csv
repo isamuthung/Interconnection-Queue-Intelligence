@@ -1,0 +1,63 @@
+Queue Number,Project Number,Project Name,Generation/Fuel 1,NET MW 1,Generation/Fuel 2,NET MW 2,Generation/Fuel 3,NET MW 3,NET MW POI,PROJECT COUNTY,Project State,Study Area,PTO,POI,Voltage kV,Requested COD,Queue Date,Application Date ,Withdrawal Date,Service Type
+2229,54899,Clay Flats,Storage/Battery,437.08,,,,,425.0,king,CA,PG&E FRESNO,LSPC,MANNING 500 kV,500,2030-10-01,2025-02-12,2024-11-22,2025-04-23,Energy Only Requested
+2202,55018,Gibson,Storage/Battery,154.598,,,,,150.0,Merced,CA,PG&E FRESNO,PGAE,MERCY SPRINGS SW STA 70 kV,70,2028-04-14,2025-02-12,2024-11-15,2025-04-24,Energy Only Requested
+2283,54729,Amargosa SEZ,Photovoltaic/Solar,510.35,Storage/Battery,508.19,,,500.0,Nye,NV,SCE EOP,GLW,BEATTY 230 kV,230,2030-12-01,2025-02-12,2024-11-18,2025-04-25,Merchant- Full Capacity Deliverability Status Requested
+2228,54946,Grapevine 2,Storage/Battery,505.1,,,,,500.0,Clark,NV,SCE EOP,SCE,ELDORADO 230 kV,230,2028-06-01,2025-02-12,2024-11-18,2025-04-25,Merchant- Full Capacity Deliverability Status Requested
+2290,54668,Ashton Energy Center,Photovoltaic/Solar,1026.67,Storage/Battery,1022.47,,,1000.0,Nye,NV,SCE EOP,GLW,VALLEY SWITCH 230 kV,230,2032-12-01,2025-02-12,2024-11-18,2025-04-25,Merchant- Full Capacity Deliverability Status Requested
+2299,54873,Saltgrass,Storage/Battery,4.9995,Storage/Battery,166.1045,,,162.0,Stanislaus,CA,PG&E GBA,PGAE,SALADO 115 kV,115,2028-06-01,2025-02-12,2024-11-26,2025-04-28,Full Capacity Deliverability Status Requested
+2245,54870,Reed Meadow,Storage/Battery,565.769988,,,,,550.0,Clark,NV,SCE EOP,GLW,SLOAN CANYON 230 kV,230,2031-12-01,2025-02-12,2024-11-21,2025-04-28,Merchant- Full Capacity Deliverability Status Requested
+2211,54777,Campito Peak,Storage/Battery,565.769988,,,,,550.0,Inyo,CA,SCE EOP,GLW,TROUT CANYON 230 kV,230,2031-12-01,2025-02-12,2024-11-21,2025-04-28,Merchant- Full Capacity Deliverability Status Requested
+2291,54765,Onyx,Photovoltaic/Solar,353.1114,Storage/Battery,352.9139,,,350.0,Clark,NV,SCE EOP,GLW,DESERT VIEW-INNOVATION,230,2030-12-02,2025-02-12,2024-11-20,2025-04-29,Merchant- Full Capacity Deliverability Status Requested
+2241,54764,Hiko,Storage/Battery,359.798,,,,,350.0,Clark,NV,SCE EOP,SCE,MOHAVE 500 kV,500,2031-12-02,2025-02-12,2024-11-15,2025-04-29,Merchant- Full Capacity Deliverability Status Requested
+2309,54763,Cathedral,Photovoltaic/Solar,361.1393,Storage/Battery,360.3123,,,350.0,Nye,NV,SCE EOP,GLW,TROUT CANYON 500 kV,500,2031-12-02,2025-02-12,2024-11-15,2025-04-29,Merchant- Full Capacity Deliverability Status Requested
+2270,54580,Chance Solar,Photovoltaic/Solar,895.7719,Storage/Battery,894.2191,,,850.0,Nye,NV,SCE EOP,GLW,BEATTY 230 kV,230,2028-10-01,2025-02-12,2024-11-12,2025-05-01,Energy Only Requested
+2242,54571,Borderline Solar,Photovoltaic/Solar,638.1349,Storage/Battery,629.5905,,,600.0,Inyo,CA,SCE EOP,GLW,TROUT CANYON 230 kV,230,2028-10-01,2025-02-12,2024-12-02,2025-05-01,Energy Only Requested
+2326,55047,Aridpeak Storage,Storage/Battery,259.36,,,,,250.0,Kern,CA,PG&E KERN,PGAE,CALIENTE SW STA-MIDWAY #1,230,2030-02-01,2025-02-12,2024-11-20,2025-05-02,Energy Only Requested
+2334,54507,Esteli Energy Storage,Storage/Battery,350.0,,,,,350.0,Los Angeles,CA,SCE METRO,SCE,OLINDA 230 kV,230,2028-05-26,2025-02-12,2024-11-15,2025-05-11,Full Capacity Deliverability Status Requested
+2316,54863,Birdrock,Storage/Battery,104.96,,,,,100.0,Los Angeles County,CA,SCE METRO,SCE,Mesa 230KV,230,2029-06-30,2025-02-12,2024-12-02,2025-05-15,Full Capacity Deliverability Status Requested
+2222,54584,Peach Storage,Storage/Battery,103.68,,,,,100.15,Stanislaus,CA,PG&E GBA,PGAE,PIERCY 115 kV,115,2031-11-01,2025-02-12,2024-11-14,2025-05-20,Full Capacity Deliverability Status Requested
+2284,54528,POTENTIA-VIRIDI 2,Storage/Battery,405.28949,,,,,400.0,San Joaquin,CA,PG&E GBA,PGAE,TESLA 500 kV,500,2028-12-15,2025-02-12,2025-02-25,2025-05-20,Full Capacity Deliverability Status Requested
+2292,54626,BlueWater Solar,Photovoltaic/Solar,1016.4,Storage/Battery,1014.4,,,1000.0,La Paz,AZ,SCE EASTERN,DCRT,Cielo Azul,500,2028-12-29,2025-02-12,2024-12-02,2025-05-27,Energy Only Requested
+2271,54676,White Oak Solar,Photovoltaic/Solar,407.0,Storage/Battery,406.2,,,400.0,Nye,NV,SCE EOP,GLW,VALLEY SWITCH 230 kV,230,2029-12-31,2025-02-12,2024-12-17,2025-05-27,Energy Only Requested
+2371,54627,Connor,Storage/Battery,514.8781,,,,,500.0,Los Angeles,CA,SCE NORTHERN,SCE,VINCENT 500 kV,500,2030-04-30,2025-02-12,2024-11-21,2025-05-27,Full Capacity Deliverability Status Requested
+2218,54586,Leopard Storage,Storage/Battery,458.703,,,,,450.0,Merced,CA,PG&E FRESNO,PGAE,LOS BANOS 500 kV,500,2031-11-01,2025-02-12,2024-11-14,2025-05-29,Full Capacity Deliverability Status Requested
+2324,54930,Goldspur,Storage/Battery,506.95128,,,,,500.0,San Bernardino,CA,SCE METRO,SCE,LUGO 500 kV,500,2028-12-31,2025-02-12,2024-11-19,2025-05-30,Full Capacity Deliverability Status Requested
+2296,54737,Sing,Storage/Battery,405.48,,,,,400.01,San Diego,CA,SCE METRO,HWT,NORTH OF SONGS 500 kV,500,2030-12-01,2025-02-12,2024-11-21,2025-05-30,Full Capacity Deliverability Status Requested
+2274,54664,Vantage,Storage/Battery,306.59,,,,,300.0,San Diego County,CA,SCE METRO,SCE,SAN ONOFRE 230 kV,230,2030-12-01,2025-02-12,2024-11-21,2025-05-30,Full Capacity Deliverability Status Requested
+2338,55053,Raspberry Solar 1,Photovoltaic/Solar,15.57,,,,,0.0,Contra Costa,CA,PG&E GBA,PGAE,SOBRANTE-STANDARD OIL SW STA #1,115,2027-07-01,2025-02-12,2024-11-14,2025-11-12,Energy Only Requested
+2203,55044,Pinecone,Storage/Battery,514.599,,,,,500.0,Yuma,AZ,SAN DIEGO,SDGE,Hassayampa-Hoodoo Wash,500,2028-04-14,2025-02-12,2024-11-15,2025-11-13,Energy Only Requested
+2314,54769,Fritts,Photovoltaic/Solar,258.686264,Storage/Battery,258.193909,,,250.0,Fresno,CA,PG&E KERN,PGAE,GATES 500 kV ,500,2029-09-30,2025-02-12,2024-11-15,2025-11-18,Full Capacity Deliverability Status Requested
+2335,54770,Superba,Photovoltaic/Solar,205.6961,Storage/Battery,205.4614,,,199.0,Fresno,CA,PG&E KERN,PGAE,GATES 500 kV ,500,2029-09-30,2025-02-12,2024-11-15,2025-11-18,Full Capacity Deliverability Status Requested
+2243,54710,Avenida Del Sul,Photovoltaic/Solar,151.294846,,,,,150.0,Inyo,CA,SCE NOL,SCE,INYOKERN 115 kV,115,2029-03-30,2025-02-12,2024-11-26,2025-11-20,Energy Only Requested
+2355,54558,Nightcap,Storage/Battery,564.5,Combustion Turbine/Hydrogen,557.4,,,550.0,Los Angeles,CA,SCE NORTHERN,SCE,VINCENT 500 kV,500,2028-08-01,2025-02-12,2024-11-20,2025-11-20,Full Capacity Deliverability Status Requested
+2354,55026,Buonissimo Energy,Storage/Battery,501.63,,,,,500.0,Kern,CA,PG&E KERN,PGAE,MIDWAY-WHIRLWIND,525,2029-07-30,2025-02-12,2024-11-21,2025-11-25,Full Capacity Deliverability Status Requested
+2205,54743,La Media,Storage/Battery,51.48,,,,,50.0,Orange,CA,SAN DIEGO,SDGE,SAN MATEO 138 kV,138,2029-05-31,2025-02-12,2024-11-19,2025-11-25,Full Capacity Deliverability Status Requested
+2281,54843,Chardonnay Storage Center,Storage/Battery,204.9,,,,,200.0,San Joaquin,CA,PG&E GBA,PGAE,GOLD HILL-EIGHT MILE ROAD,230,2030-02-15,2025-02-12,2024-11-29,2025-11-26,Full Capacity Deliverability Status Requested
+2358,55035,Garden Green Solar,Photovoltaic/Solar,50.46,Storage/Battery,50.46,,,50.0,Santa Clara County,CA,PG&E GBA,PGAE,LLAGAS 115 kV,115,2027-03-01,2025-02-12,2024-11-27,2025-11-26,Full Capacity Deliverability Status Requested
+2256,54565,Calypso Solar 2,Photovoltaic/Solar,407.3264,,,,,400.0,Riverside,CA,SCE EASTERN,SCE,COLORADO RIVER 500 kV,500,2028-10-01,2025-02-12,2024-11-14,2025-12-01,Energy Only Requested
+2217,54579,Baca,Storage/Battery,490.734,,,,,475.0,Merced,CA,PG&E FRESNO,PGAE,LOS BANOS 500 kV,500,2028-10-01,2025-02-12,2024-11-25,2025-12-01,Full Capacity Deliverability Status Requested
+2315,54648,Date Palm,Storage/Battery,620.58,,,,,614.0,San Bernardino,CA,SCE METRO,SCE,LUGO 500 kV,500,2031-12-31,2025-02-12,2024-11-25,2025-12-01,Full Capacity Deliverability Status Requested
+2303,54501,RIGHTEOUS ENERGY STORAGE,Storage/Battery,500.0,,,,,500.0,San Bernardino,CA,SCE METRO,SCE,LUGO 500 kV,500,2030-05-27,2025-02-12,2024-11-15,2025-12-01,Full Capacity Deliverability Status Requested
+2233,54576,Whiptail Solar,Photovoltaic/Solar,252.2853,,,,,250.0,Fresno,CA,PG&E FRESNO,PGAE,MANNING - TRANQUILITY #1,230,2028-10-01,2025-02-12,2025-11-04,2025-12-01,Energy Only Requested
+2337,54885,Tumey Hills Energy Storage,Storage/Battery,215.75,,,,,207.0,Fresno,CA,PG&E FRESNO,LSPC,MANNING 500 kV,500,2030-06-01,2025-02-12,2024-11-20,2025-12-02,Full Capacity Deliverability Status Requested
+2310,54616,Icarus Solar,Photovoltaic/Solar,718.2,Storage/Battery,716.4,,,700.0,Mohave,AZ,SCE EOP,SCE,MOHAVE 500 kV,500,2032-12-31,2025-02-12,2024-12-02,2025-12-02,Energy Only Requested
+2276,54659,Ace,Storage/Battery,303.96,,,,,300.0,Alameda,CA,PG&E GBA,PGAE,TESLA 230 kV ,230,2030-06-01,2025-02-12,2024-11-19,2025-12-02,Full Capacity Deliverability Status Requested
+2287,54662,Flamingo,Storage/Battery,304.19,,,,,300.0,Alameda,CA,PG&E GBA,PGAE,TESLA 230 kV ,230,2030-06-01,2025-02-12,2024-11-19,2025-12-02,Full Capacity Deliverability Status Requested
+2213,54824,Amberjill Energy,Storage/Battery,50.19,Photovoltaic/Solar,100.49,,,100.0,Imperial,CA,SAN DIEGO,SDGE,IMPERIAL VALLEY 230 kV,230,2029-07-31,2025-02-12,2024-11-21,2025-12-03,Energy Only Requested
+2347,54646,CRESTLEY,Storage/Battery,270.0,,,,,270.0,MERCED,CA,PG&E FRESNO,PGAE,LOS BANOS 500 kV,500,2031-12-31,2025-02-12,2024-11-26,2025-12-03,Full Capacity Deliverability Status Requested
+2346,54650,Copper Cloud,Storage/Battery,200.0,,,,,200.0,MERCED,CA,PG&E FRESNO,PGAE,LOS BANOS 500 kV,500,2031-12-31,2025-02-12,2024-11-26,2025-12-03,Full Capacity Deliverability Status Requested
+2345,54647,Silkie,Storage/Battery,400.0,,,,,400.0,MERCED,CA,PG&E FRESNO,PGAE,LOS BANOS 500 kV,500,2031-12-31,2025-02-12,2024-11-26,2025-12-03,Full Capacity Deliverability Status Requested
+2348,55006,Victorious,Storage/Battery,516.0,,,,,500.0,San Bernardino,CA,SCE METRO,SCE,LUGO 500 kV,500,2028-12-31,2025-02-12,2024-12-01,2025-12-03,Full Capacity Deliverability Status Requested
+2363,54749,Castoria BESS,Storage/Battery,61.8,,,,,60.07,Santa Clara,CA,PG&E GBA,PGAE,METCALF 230 kV,230,2030-12-31,2025-02-12,2024-11-15,2025-12-03,Full Capacity Deliverability Status Requested
+2230,55043,HillRich,Storage/Battery,308.7,,,,,300.0,Santa Clara,CA,PG&E GBA,PGAE,MILPITAS 115 kV,115,2028-12-31,2025-02-12,2024-12-01,2025-12-03,Full Capacity Deliverability Status Requested
+2225,54923,Jupiter Bowl,Storage/Battery,64.36,,,,,64.0,Stanislaus,CA,PG&E GBA,PGAE,SALADO 115 kV,115,2028-06-01,2025-02-12,2024-11-20,2025-12-03,Full Capacity Deliverability Status Requested
+2369,55030,Blue Oak Storage 2,Storage/Battery,609.3,,,,,600.28,Alameda,CA,PG&E GBA,PGAE,TESLA 230 kV,230,2031-12-31,2025-02-12,2024-11-15,2025-12-03,Full Capacity Deliverability Status Requested
+2330,54598,Mandorla,Photovoltaic/Solar,103.3,Storage/Battery,103.0,,,100.0,Tehama,CA,PG&E NGBA,PGAE,GLENN 230 kV,230,2030-06-30,2025-02-12,2024-11-26,2025-12-04,Energy Only Requested
+2307,54592,Redpoint,Photovoltaic/Solar,155.3,Storage/Battery,154.4,,,150.0,Kings,CA,PG&E FRESNO,PGAE,HENRIETTA 230 kV,230,2028-04-01,2025-02-12,2024-11-25,2025-12-04,Energy Only Requested
+2255,54595,Mystic Ridge,Photovoltaic/Solar,206.1,Storage/Battery,206.0,,,200.0,San Benito,CA,PG&E FRESNO,PGAE,LOS BANOS 500 kV,500,2028-04-01,2025-02-12,2024-11-27,2025-12-04,Full Capacity Deliverability Status Requested
+2278,55003,Grand BESS,Storage/Battery,205.0,,,,,199.0,Santa Clara,CA,PG&E GBA,PGAE,PIERCY 115 kV,115,2028-12-31,2025-02-12,2024-12-01,2025-12-04,Full Capacity Deliverability Status Requested
+2289,54632,Boson,Photovoltaic/Solar,1173.48,Storage/Battery,1173.48,,,1150.0,Kern,CA,SCE NORTHERN,SCE,Midway - Vincent 500kV #1,500,2028-09-30,2025-02-12,2024-11-19,2025-12-09,Full Capacity Deliverability Status Requested
+2295,40082,Mount Lassen Power Plant,Biomass/Biofuel,11.4,,,,,10.0,Lassen,CA,PG&E NGBA,PGAE,Caribou - Westwood,60,2028-03-31,2025-02-12,2024-11-26,2025-12-10,Energy Only Requested
+2364,55036,Castle Rock Energy Storage,Storage/Battery,157.6,,,,,150.0,San Bernardino,CA,SCE METRO,SCE,LUGO 500 kV,500,2028-12-31,2025-02-12,2024-11-21,2025-12-12,Full Capacity Deliverability Status Requested
+2365,55022,Redtail Energy Storage,Storage/Battery,22.205,,,,,22.0,Monterey,CA,PG&E GBA,PGAE,Soledad #2 60kV ,60,2028-10-01,2025-02-12,2024-11-21,2025-12-12,Full Capacity Deliverability Status Requested
+2367,55023,Blacktail Energy Storage,Storage/Battery,10.072,,,,,10.0,Monterey,CA,PG&E GBA,PGAE,Soledad #1 60kV ,60,2028-10-01,2025-02-12,2024-11-21,2025-12-12,Full Capacity Deliverability Status Requested

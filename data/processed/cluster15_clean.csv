@@ -1,0 +1,171 @@
+queue_number,project_number,project_name,fuel_primary,fuel_secondary,mw_1,mw_2,service_type,queue_date,application_date,withdrawal_date,status,net_mw,days_queue_to_withdrawal,days_app_to_withdrawal,technology,is_withdrawn,is_active
+2207,54516,Alisa Solar Energy Complex 2,Photovoltaic/Solar,Storage/Battery,500.0,500.0,Energy Only Requested,,2024-11-18,,active,1000.0,,,hybrid_solar_storage,0,1
+2328,54934,Amanece,Photovoltaic/Solar,Storage/Battery,418.992798,416.545013,Full Capacity Deliverability Status Requested,,2024-11-21,,active,835.5378109999999,,,hybrid_solar_storage,0,1
+2322,55045,Ambar Energy Storage,Storage/Battery,,504.9,,Full Capacity Deliverability Status Requested,,2024-11-21,,active,504.9,,,storage,0,1
+2244,54963,Annapurna,Storage/Battery,,257.0,,Full Capacity Deliverability Status Requested,,2024-11-20,,active,257.0,,,storage,0,1
+2204,54897,Antlia,Storage/Battery,,204.859,,Full Capacity Deliverability Status Requested,,2024-11-19,,active,204.859,,,storage,0,1
+2212,54730,Argenta,Photovoltaic/Solar,,155.76,,Energy Only Requested,,2024-11-20,,active,155.76,,,solar,0,1
+2219,54767,Argos Solar,Photovoltaic/Solar,,352.0165,,Energy Only Requested,,2024-11-15,,active,352.0165,,,solar,0,1
+2349,54509,Aviation,Storage/Battery,Combustion Turbine/Hydrogen,600.0,600.0,Full Capacity Deliverability Status Requested,,2024-11-18,,active,1200.0,,,storage,0,1
+2305,54761,Bajada,Photovoltaic/Solar,,352.9885,,Energy Only Requested,,2024-11-15,,active,352.9885,,,solar,0,1
+2333,55013,Belterra Energy Storage,Storage/Battery,,514.08,,Full Capacity Deliverability Status Requested,,2024-11-19,,active,514.08,,,storage,0,1
+2298,54694,Blue Star,Photovoltaic/Solar,Storage/Battery,306.352356,206.8022619,Full Capacity Deliverability Status Requested,,2024-11-21,,active,513.1546179,,,hybrid_solar_storage,0,1
+2248,54657,Bolt,Photovoltaic/Solar,Storage/Battery,255.4,253.8,Full Capacity Deliverability Status Requested,,2024-11-21,,active,509.20000000000005,,,hybrid_solar_storage,0,1
+2206,54655,Bonita Bateria,Storage/Battery,,102.91,,Full Capacity Deliverability Status Requested,,2024-11-19,,active,102.91,,,storage,0,1
+2208,54656,Bonita Bateria 2,Storage/Battery,,123.405,,Full Capacity Deliverability Status Requested,,2024-11-19,,active,123.405,,,storage,0,1
+2265,54850,Box,Photovoltaic/Solar,,63.44,,Energy Only Requested,,2024-12-02,,active,63.44,,,solar,0,1
+2257,54523,Bristlecone,Photovoltaic/Solar,Storage/Battery,460.95,460.14,Energy Only Requested,,2024-11-05,,active,921.0899999999999,,,hybrid_solar_storage,0,1
+2308,54518,Broadview,Photovoltaic/Solar,Storage/Battery,816.4,491.8,Full Capacity Deliverability Status Requested,,2024-11-21,,active,1308.2,,,hybrid_solar_storage,0,1
+2336,54696,Brown Bear,Storage/Battery,Photovoltaic/Solar,74.202262,303.785,Full Capacity Deliverability Status Requested,,2024-11-21,,active,377.98726200000004,,,hybrid_solar_storage,0,1
+2359,54697,Brundage Energy Storage,Storage/Battery,,202.2668,,Full Capacity Deliverability Status Requested,,2024-11-20,,active,202.2668,,,storage,0,1
+2353,54724,Cabrera Reliability,Storage/Battery,,205.403,,Full Capacity Deliverability Status Requested,,2024-11-14,,active,205.403,,,storage,0,1
+2280,54771,Cantus,Storage/Battery,Photovoltaic/Solar,249.524,249.524,Full Capacity Deliverability Status Requested,,2024-11-20,,active,499.048,,,hybrid_solar_storage,0,1
+2370,54809,Carissalito Creek,Storage/Battery,Photovoltaic/Solar,415.86,415.86,Full Capacity Deliverability Status Requested,,2024-11-21,,active,831.72,,,hybrid_solar_storage,0,1
+2261,54721,Cassia,Storage/Battery,,102.15,,Full Capacity Deliverability Status Requested,,2024-11-22,,active,102.15,,,storage,0,1
+2306,55012,Chronos Energy Storage,Storage/Compressed Air,,516.8,,Full Capacity Deliverability Status Requested,,2024-12-02,,active,516.8,,,storage,0,1
+2277,54640,Circinus,Storage/Battery,Photovoltaic/Solar,185.643,185.643,Energy Only Requested,,2024-11-20,,active,371.286,,,hybrid_solar_storage,0,1
+2339,54511,Comstock,Storage/Battery,Combustion Turbine/Hydrogen,199.0,199.0,Full Capacity Deliverability Status Requested,,2024-11-19,,active,398.0,,,storage,0,1
+2227,54896,Conduit Energy Storage 2,Storage/Battery,,199.0,,Full Capacity Deliverability Status Requested,,2024-11-15,,active,199.0,,,storage,0,1
+2226,54667,Container,Photovoltaic/Solar,,204.57,,Energy Only Requested,,2024-11-18,,active,204.57,,,solar,0,1
+2344,54593,Cowboy,Photovoltaic/Solar,Storage/Battery,156.4,155.3,Energy Only Requested,,2024-11-27,,active,311.70000000000005,,,hybrid_solar_storage,0,1
+2350,55001,Crusade,Storage/Battery,,1029.0,,Full Capacity Deliverability Status Requested,,2024-12-02,,active,1029.0,,,storage,0,1
+2210,54939,Domestic Chicken,Photovoltaic/Solar,,559.4,,Energy Only Requested,,2024-11-20,,active,559.4,,,solar,0,1
+2286,54774,Dove Cove,Storage/Battery,,514.368,,Full Capacity Deliverability Status Requested,,2024-11-20,,active,514.368,,,storage,0,1
+2304,54914,Droga,Storage/Battery,,101.93,,Full Capacity Deliverability Status Requested,,2024-11-20,,active,101.93,,,storage,0,1
+2351,54526,Duran,Storage/Battery,Combustion Turbine/Hydrogen,300.0,300.0,Full Capacity Deliverability Status Requested,,2024-11-19,,active,600.0,,,storage,0,1
+2342,54960,East Wonder,Photovoltaic/Solar,Storage/Battery,366.909332,188.82,Full Capacity Deliverability Status Requested,,2024-11-21,,active,555.729332,,,hybrid_solar_storage,0,1
+2221,54840,Emerita Energy Storage,Storage/Battery,,205.7,,Full Capacity Deliverability Status Requested,,2024-12-01,,active,205.7,,,storage,0,1
+2224,54674,Energia Sierra Juarez 4,Wind Turbine/Wind,,309.1,,Energy Only Requested,,2024-11-27,,active,309.1,,,wind,0,1
+2216,54862,Fika,Storage/Battery,,258.47,,Full Capacity Deliverability Status Requested,,2024-11-21,,active,258.47,,,storage,0,1
+2323,54719,Fontus,Storage/Battery,,513.99,,Full Capacity Deliverability Status Requested,,2024-11-22,,active,513.99,,,storage,0,1
+2209,54643,Fornax,Storage/Battery,Photovoltaic/Solar,103.125,103.125,Energy Only Requested,,2024-11-20,,active,206.25,,,hybrid_solar_storage,0,1
+2297,54693,Galadriel,Storage/Battery,,317.5,,Full Capacity Deliverability Status Requested,,2024-11-22,,active,317.5,,,storage,0,1
+2325,54577,Galicia Storage,Storage/Battery,,505.6459,,Full Capacity Deliverability Status Requested,,2024-11-12,,active,505.6459,,,storage,0,1
+2300,54629,GAMAY,Photovoltaic/Solar,Storage/Battery,200.0,200.0,Energy Only Requested,,2024-11-26,,active,400.0,,,hybrid_solar_storage,0,1
+2223,54916,Geras,Photovoltaic/Solar,Storage/Battery,133.82,133.76,Full Capacity Deliverability Status Requested,,2024-11-20,,active,267.58,,,hybrid_solar_storage,0,1
+2273,54768,Goldlink,Photovoltaic/Solar,,353.8145,,Energy Only Requested,,2024-11-15,,active,353.8145,,,solar,0,1
+2313,54702,Gosford Solar Storage,Photovoltaic/Solar,,304.630524,,Energy Only Requested,,2024-11-21,,active,304.630524,,,solar,0,1
+2238,54945,Grapevine 1,Photovoltaic/Solar,,204.58,,Energy Only Requested,,2024-11-18,,active,204.58,,,solar,0,1
+2368,54832,Green Palms,Photovoltaic/Solar,,306.7,,Energy Only Requested,,2024-11-15,,active,306.7,,,solar,0,1
+2220,54740,Hacienda,Photovoltaic/Solar,,156.525,,Energy Only Requested,,2024-11-20,,active,156.525,,,solar,0,1
+2262,54725,Helios Grid Reliability,Storage/Battery,,205.4504,,Full Capacity Deliverability Status Requested,,2024-11-14,,active,205.4504,,,storage,0,1
+2327,54703,Hillside Energy Storage,Storage/Battery,,1064.748473,,Full Capacity Deliverability Status Requested,,2024-11-21,,active,1064.748473,,,storage,0,1
+2282,54839,Holly Oaks,Storage/Battery,,128.4,,Full Capacity Deliverability Status Requested,,2024-12-01,,active,128.4,,,storage,0,1
+2263,54785,Jackrabbit Power Bank,Storage/Battery,,307.62,,Full Capacity Deliverability Status Requested,,2024-11-20,,active,307.62,,,storage,0,1
+2294,55004,Lagoonez,Storage/Battery,,1029.0,,Full Capacity Deliverability Status Requested,,2024-12-02,,active,1029.0,,,storage,0,1
+2275,54938,Little Hill,Storage/Battery,,63.14,,Full Capacity Deliverability Status Requested,,2024-11-21,,active,63.14,,,storage,0,1
+2320,54686,Lupine Energy Center,Storage/Battery,,518.0683,,Full Capacity Deliverability Status Requested,,2024-12-02,,active,518.0683,,,storage,0,1
+2288,54567,Lycan Solar 2,Photovoltaic/Solar,,192.2176,,Energy Only Requested,,2024-11-21,,active,192.2176,,,solar,0,1
+2356,54689,Maestro,Photovoltaic/Solar,Storage/Battery,304.68,304.03,Full Capacity Deliverability Status Requested,,2024-12-02,,active,608.71,,,hybrid_solar_storage,0,1
+2360,54624,Maravillosa 1,Photovoltaic/Solar,Storage/Battery,204.023804,202.615998,Full Capacity Deliverability Status Requested,,2024-11-27,,active,406.63980200000003,,,hybrid_solar_storage,0,1
+2361,54625,Maravillosa 2,Photovoltaic/Solar,Storage/Battery,407.2330048,404.6370076,Full Capacity Deliverability Status Requested,,2024-11-27,,active,811.8700124,,,hybrid_solar_storage,0,1
+2366,55027,MATTERHORN,Wind Turbine/Wind,Storage/Battery,406.8,406.098,Energy Only Requested,,2024-11-21,,active,812.898,,,storage,0,1
+2279,54952,Mesquite Solar 6,Storage/Battery,Photovoltaic/Solar,154.5,154.48,Energy Only Requested,,2024-11-25,,active,308.98,,,hybrid_solar_storage,0,1
+2362,54704,MidBishop,Storage/Battery,Photovoltaic/Solar,74.2022619,307.779007,Full Capacity Deliverability Status Requested,,2024-11-21,,active,381.9812689,,,hybrid_solar_storage,0,1
+2246,54762,Moonraker,Storage/Battery,,352.7437,,Full Capacity Deliverability Status Requested,,2024-11-15,,active,352.7437,,,storage,0,1
+2318,54861,Mt Baldy Energy Storage 2,Storage/Battery,,204.93,,Full Capacity Deliverability Status Requested,,2024-11-15,,active,204.93,,,storage,0,1
+2266,54634,Muon,Photovoltaic/Solar,Storage/Battery,1169.504,1169.504,Full Capacity Deliverability Status Requested,,2024-11-19,,active,2339.008,,,hybrid_solar_storage,0,1
+2312,55025,Musketeers,Photovoltaic/Solar,Storage/Battery,524.483704,522.019348,Energy Only Requested,,2024-11-26,,active,1046.503052,,,hybrid_solar_storage,0,1
+2269,54733,Nelson,Photovoltaic/Solar,,103.74,,Energy Only Requested,,2024-11-18,,active,103.74,,,solar,0,1
+2237,54671,Nelson Hills,Photovoltaic/Solar,,204.57,,Energy Only Requested,,2024-11-18,,active,204.57,,,solar,0,1
+2214,54637,Octans,Storage/Battery,Photovoltaic/Solar,103.226,103.226,Energy Only Requested,,2024-11-20,,active,206.452,,,hybrid_solar_storage,0,1
+2357,54675,Off Stream Water Storage,Hydro/Pumped-Storage Hydro,,68.896962,,Energy Only Requested,,2024-11-27,,active,68.896962,,,storage,0,1
+2239,54635,Pion,Storage/Battery,,1167.705,,Full Capacity Deliverability Status Requested,,2024-11-19,,active,1167.705,,,storage,0,1
+2343,54989,Quaking Aspen,Photovoltaic/Solar,Storage/Battery,209.64296,107.902122,Full Capacity Deliverability Status Requested,,2024-11-21,,active,317.545082,,,hybrid_solar_storage,0,1
+2267,54636,Quark,Photovoltaic/Solar,Storage/Battery,869.4,1175.3,Full Capacity Deliverability Status Requested,,2024-11-19,,active,2044.6999999999998,,,hybrid_solar_storage,0,1
+2232,54672,Reflex,Photovoltaic/Solar,,129.04,,Energy Only Requested,,2024-12-02,,active,129.04,,,solar,0,1
+2234,54684,Ripple,Photovoltaic/Solar,Storage/Battery,945.9227,933.8717,Energy Only Requested,,2024-11-29,,active,1879.7944,,,hybrid_solar_storage,0,1
+2341,54531,Rover,Storage/Battery,,206.24,,Full Capacity Deliverability Status Requested,,2024-11-06,,active,206.24,,,storage,0,1
+2302,54866,Saguaro Energy Storage,Storage/Battery,,204.93,,Full Capacity Deliverability Status Requested,,2024-11-15,,active,204.93,,,storage,0,1
+2332,54995,Separator Expansion,Storage/Battery,,12.55,,Merchant- Full Capacity Deliverability Status Requested,,2024-11-15,,active,12.55,,,storage,0,1
+2215,54669,Serenity,Photovoltaic/Solar,,305.41,,Energy Only Requested,,2024-11-18,,active,305.41,,,solar,0,1
+2293,54915,Shoals Energy Storage 2,Storage/Battery,,461.13,,Full Capacity Deliverability Status Requested,,2024-11-21,,active,461.13,,,storage,0,1
+2249,54665,Shoestring,Photovoltaic/Solar,Storage/Battery,135.17,134.36,Full Capacity Deliverability Status Requested,,2024-11-21,,active,269.53,,,hybrid_solar_storage,0,1
+2268,54651,Sienna 3,Photovoltaic/Solar,Storage/Battery,288.0,288.0,Energy Only Requested,,2024-11-25,,active,576.0,,,hybrid_solar_storage,0,1
+2311,55049,Soledad Solar,Photovoltaic/Solar,,562.354996,,Energy Only Requested,,2024-11-21,,active,562.354996,,,solar,0,1
+2252,54739,Solstice A,Photovoltaic/Solar,Storage/Battery,556.0,554.6,Full Capacity Deliverability Status Requested,,2024-11-21,,active,1110.6,,,hybrid_solar_storage,0,1
+2254,54847,Solstice B,Photovoltaic/Solar,Storage/Battery,606.39,604.93,Full Capacity Deliverability Status Requested,,2024-11-21,,active,1211.32,,,hybrid_solar_storage,0,1
+2253,54848,Solstice C,Photovoltaic/Solar,Storage/Battery,204.53,203.63,Full Capacity Deliverability Status Requested,,2024-11-21,,active,408.15999999999997,,,hybrid_solar_storage,0,1
+2251,54849,Solstice D,Photovoltaic/Solar,Storage/Solar,204.41,203.63,Full Capacity Deliverability Status Requested,,2024-11-21,,active,408.03999999999996,,,hybrid_solar_storage,0,1
+2250,54738,Stable,Photovoltaic/Solar,Storage/Battery,376.81,373.11,Full Capacity Deliverability Status Requested,,2024-11-21,,active,749.9200000000001,,,hybrid_solar_storage,0,1
+2331,54882,Stanley,Photovoltaic/Solar,Storage/Battery,1038.9,1032.1121,Energy Only Requested,,2024-11-21,,active,2071.0121,,,hybrid_solar_storage,0,1
+2236,54908,Summit Valley Energy Storage,Storage/Battery,,518.6815,,Full Capacity Deliverability Status Requested,,2024-11-18,,active,518.6815,,,storage,0,1
+2240,54903,Sunflower,Photovoltaic/Solar,Storage/Battery,715.1,715.1,Energy Only Requested,,2024-11-23,,active,1430.2,,,hybrid_solar_storage,0,1
+2260,54905,Sunglow,Photovoltaic/Solar,Storage/Battery,372.165,372.165,Full Capacity Deliverability Status Requested,,2024-11-22,,active,744.33,,,hybrid_solar_storage,0,1
+2319,54902,Sunvine,Photovoltaic/Solar,Storage/Battery,613.7,0.0,Energy Only Requested,,2024-11-22,,active,613.7,,,hybrid_solar_storage,0,1
+2285,54666,Tea Leaf Energy Storage,Storage/Battery,,404.31,,Full Capacity Deliverability Status Requested,,2024-11-19,,active,404.31,,,storage,0,1
+2258,54827,Telluride,Photovoltaic/Solar,Storage/Battery,102.7,102.7,Energy Only Requested,,2024-11-15,,active,205.4,,,hybrid_solar_storage,0,1
+2301,54652,TENDRIL,Photovoltaic/Solar,Storage/Battery,100.0,100.0,Energy Only Requested,,2024-11-26,,active,200.0,,,hybrid_solar_storage,0,1
+2231,54879,Tioga Pass,Storage/Battery,,103.0000006,,Full Capacity Deliverability Status Requested,,2024-12-02,,active,103.0000006,,,storage,0,1
+2272,54638,Toland Renewable Energy Park,Wind Turbine/Wind,,108.0,,Full Capacity Deliverability Status Requested,,2024-11-06,,active,108.0,,,wind,0,1
+2329,54707,Torbino Solar,Photovoltaic/Solar,,507.0,,Energy Only Requested,,2024-11-26,,active,507.0,,,solar,0,1
+2317,54943,Twinkle,Storage/Battery,,303.95,,Full Capacity Deliverability Status Requested,,2024-11-21,,active,303.95,,,storage,0,1
+2340,54859,Ulua,Storage/Battery,,104.97,,Full Capacity Deliverability Status Requested,,2024-11-21,,active,104.97,,,storage,0,1
+2321,55041,Voyager Energy Storage,Storage/Battery,,105.4,,Full Capacity Deliverability Status Requested,,2024-11-21,,active,105.4,,,storage,0,1
+2259,54802,Whiskey Diggings,Photovoltaic/Solar,,414.4,,Energy Only Requested,,2024-12-02,,active,414.4,,,solar,0,1
+2352,55002,Yacht Rock,Storage/Battery,,514.41,,Full Capacity Deliverability Status Requested,,2024-12-01,,active,514.41,,,storage,0,1
+2247,54778,Zama,Storage/Battery,,352.7437,,Full Capacity Deliverability Status Requested,,2024-11-15,,active,352.7437,,,storage,0,1
+2264,54682,Zeitgeist K Energy Center,Storage/Battery,,258.2079,,Full Capacity Deliverability Status Requested,,2024-11-28,,active,258.2079,,,storage,0,1
+2235,54841,Zinfandel Storage Center,Storage/Battery,,153.69,,Full Capacity Deliverability Status Requested,,2024-11-29,,active,153.69,,,storage,0,1
+2229,54899,Clay Flats,Storage/Battery,,437.08,,Energy Only Requested,2025-02-12,,2025-04-23,withdrawn,437.08,70.0,,storage,1,0
+2202,55018,Gibson,Storage/Battery,,154.598,,Energy Only Requested,2025-02-12,,2025-04-24,withdrawn,154.598,71.0,,storage,1,0
+2283,54729,Amargosa SEZ,Photovoltaic/Solar,Storage/Battery,510.35,508.19,Merchant- Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-25,withdrawn,1018.54,72.0,,hybrid_solar_storage,1,0
+2228,54946,Grapevine 2,Storage/Battery,,505.1,,Merchant- Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-25,withdrawn,505.1,72.0,,storage,1,0
+2290,54668,Ashton Energy Center,Photovoltaic/Solar,Storage/Battery,1026.67,1022.47,Merchant- Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-25,withdrawn,2049.1400000000003,72.0,,hybrid_solar_storage,1,0
+2299,54873,Saltgrass,Storage/Battery,Storage/Battery,4.9995,166.1045,Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-28,withdrawn,171.104,75.0,,storage,1,0
+2245,54870,Reed Meadow,Storage/Battery,,565.769988,,Merchant- Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-28,withdrawn,565.769988,75.0,,storage,1,0
+2211,54777,Campito Peak,Storage/Battery,,565.769988,,Merchant- Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-28,withdrawn,565.769988,75.0,,storage,1,0
+2291,54765,Onyx,Photovoltaic/Solar,Storage/Battery,353.1114,352.9139,Merchant- Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-29,withdrawn,706.0253,76.0,,hybrid_solar_storage,1,0
+2241,54764,Hiko,Storage/Battery,,359.798,,Merchant- Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-29,withdrawn,359.798,76.0,,storage,1,0
+2309,54763,Cathedral,Photovoltaic/Solar,Storage/Battery,361.1393,360.3123,Merchant- Full Capacity Deliverability Status Requested,2025-02-12,,2025-04-29,withdrawn,721.4516,76.0,,hybrid_solar_storage,1,0
+2270,54580,Chance Solar,Photovoltaic/Solar,Storage/Battery,895.7719,894.2191,Energy Only Requested,2025-02-12,,2025-05-01,withdrawn,1789.991,78.0,,hybrid_solar_storage,1,0
+2242,54571,Borderline Solar,Photovoltaic/Solar,Storage/Battery,638.1349,629.5905,Energy Only Requested,2025-02-12,,2025-05-01,withdrawn,1267.7254,78.0,,hybrid_solar_storage,1,0
+2326,55047,Aridpeak Storage,Storage/Battery,,259.36,,Energy Only Requested,2025-02-12,,2025-05-02,withdrawn,259.36,79.0,,storage,1,0
+2334,54507,Esteli Energy Storage,Storage/Battery,,350.0,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-11,withdrawn,350.0,88.0,,storage,1,0
+2316,54863,Birdrock,Storage/Battery,,104.96,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-15,withdrawn,104.96,92.0,,storage,1,0
+2222,54584,Peach Storage,Storage/Battery,,103.68,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-20,withdrawn,103.68,97.0,,storage,1,0
+2284,54528,POTENTIA-VIRIDI 2,Storage/Battery,,405.28949,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-20,withdrawn,405.28949,97.0,,storage,1,0
+2292,54626,BlueWater Solar,Photovoltaic/Solar,Storage/Battery,1016.4,1014.4,Energy Only Requested,2025-02-12,,2025-05-27,withdrawn,2030.8,104.0,,hybrid_solar_storage,1,0
+2271,54676,White Oak Solar,Photovoltaic/Solar,Storage/Battery,407.0,406.2,Energy Only Requested,2025-02-12,,2025-05-27,withdrawn,813.2,104.0,,hybrid_solar_storage,1,0
+2371,54627,Connor,Storage/Battery,,514.8781,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-27,withdrawn,514.8781,104.0,,storage,1,0
+2218,54586,Leopard Storage,Storage/Battery,,458.703,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-29,withdrawn,458.703,106.0,,storage,1,0
+2324,54930,Goldspur,Storage/Battery,,506.95128,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-30,withdrawn,506.95128,107.0,,storage,1,0
+2296,54737,Sing,Storage/Battery,,405.48,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-30,withdrawn,405.48,107.0,,storage,1,0
+2274,54664,Vantage,Storage/Battery,,306.59,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-05-30,withdrawn,306.59,107.0,,storage,1,0
+2338,55053,Raspberry Solar 1,Photovoltaic/Solar,,15.57,,Energy Only Requested,2025-02-12,,2025-11-12,withdrawn,15.57,273.0,,solar,1,0
+2203,55044,Pinecone,Storage/Battery,,514.599,,Energy Only Requested,2025-02-12,,2025-11-13,withdrawn,514.599,274.0,,storage,1,0
+2314,54769,Fritts,Photovoltaic/Solar,Storage/Battery,258.686264,258.193909,Full Capacity Deliverability Status Requested,2025-02-12,,2025-11-18,withdrawn,516.880173,279.0,,hybrid_solar_storage,1,0
+2335,54770,Superba,Photovoltaic/Solar,Storage/Battery,205.6961,205.4614,Full Capacity Deliverability Status Requested,2025-02-12,,2025-11-18,withdrawn,411.1575,279.0,,hybrid_solar_storage,1,0
+2243,54710,Avenida Del Sul,Photovoltaic/Solar,,151.294846,,Energy Only Requested,2025-02-12,,2025-11-20,withdrawn,151.294846,281.0,,solar,1,0
+2355,54558,Nightcap,Storage/Battery,Combustion Turbine/Hydrogen,564.5,557.4,Full Capacity Deliverability Status Requested,2025-02-12,,2025-11-20,withdrawn,1121.9,281.0,,storage,1,0
+2354,55026,Buonissimo Energy,Storage/Battery,,501.63,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-11-25,withdrawn,501.63,286.0,,storage,1,0
+2205,54743,La Media,Storage/Battery,,51.48,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-11-25,withdrawn,51.48,286.0,,storage,1,0
+2281,54843,Chardonnay Storage Center,Storage/Battery,,204.9,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-11-26,withdrawn,204.9,287.0,,storage,1,0
+2358,55035,Garden Green Solar,Photovoltaic/Solar,Storage/Battery,50.46,50.46,Full Capacity Deliverability Status Requested,2025-02-12,,2025-11-26,withdrawn,100.92,287.0,,hybrid_solar_storage,1,0
+2256,54565,Calypso Solar 2,Photovoltaic/Solar,,407.3264,,Energy Only Requested,2025-02-12,,2025-12-01,withdrawn,407.3264,292.0,,solar,1,0
+2217,54579,Baca,Storage/Battery,,490.734,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-01,withdrawn,490.734,292.0,,storage,1,0
+2315,54648,Date Palm,Storage/Battery,,620.58,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-01,withdrawn,620.58,292.0,,storage,1,0
+2303,54501,RIGHTEOUS ENERGY STORAGE,Storage/Battery,,500.0,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-01,withdrawn,500.0,292.0,,storage,1,0
+2233,54576,Whiptail Solar,Photovoltaic/Solar,,252.2853,,Energy Only Requested,2025-02-12,,2025-12-01,withdrawn,252.2853,292.0,,solar,1,0
+2337,54885,Tumey Hills Energy Storage,Storage/Battery,,215.75,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-02,withdrawn,215.75,293.0,,storage,1,0
+2310,54616,Icarus Solar,Photovoltaic/Solar,Storage/Battery,718.2,716.4,Energy Only Requested,2025-02-12,,2025-12-02,withdrawn,1434.6,293.0,,hybrid_solar_storage,1,0
+2276,54659,Ace,Storage/Battery,,303.96,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-02,withdrawn,303.96,293.0,,storage,1,0
+2287,54662,Flamingo,Storage/Battery,,304.19,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-02,withdrawn,304.19,293.0,,storage,1,0
+2213,54824,Amberjill Energy,Storage/Battery,Photovoltaic/Solar,50.19,100.49,Energy Only Requested,2025-02-12,,2025-12-03,withdrawn,150.68,294.0,,hybrid_solar_storage,1,0
+2347,54646,CRESTLEY,Storage/Battery,,270.0,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-03,withdrawn,270.0,294.0,,storage,1,0
+2346,54650,Copper Cloud,Storage/Battery,,200.0,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-03,withdrawn,200.0,294.0,,storage,1,0
+2345,54647,Silkie,Storage/Battery,,400.0,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-03,withdrawn,400.0,294.0,,storage,1,0
+2348,55006,Victorious,Storage/Battery,,516.0,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-03,withdrawn,516.0,294.0,,storage,1,0
+2363,54749,Castoria BESS,Storage/Battery,,61.8,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-03,withdrawn,61.8,294.0,,storage,1,0
+2230,55043,HillRich,Storage/Battery,,308.7,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-03,withdrawn,308.7,294.0,,storage,1,0
+2225,54923,Jupiter Bowl,Storage/Battery,,64.36,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-03,withdrawn,64.36,294.0,,storage,1,0
+2369,55030,Blue Oak Storage 2,Storage/Battery,,609.3,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-03,withdrawn,609.3,294.0,,storage,1,0
+2330,54598,Mandorla,Photovoltaic/Solar,Storage/Battery,103.3,103.0,Energy Only Requested,2025-02-12,,2025-12-04,withdrawn,206.3,295.0,,hybrid_solar_storage,1,0
+2307,54592,Redpoint,Photovoltaic/Solar,Storage/Battery,155.3,154.4,Energy Only Requested,2025-02-12,,2025-12-04,withdrawn,309.70000000000005,295.0,,hybrid_solar_storage,1,0
+2255,54595,Mystic Ridge,Photovoltaic/Solar,Storage/Battery,206.1,206.0,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-04,withdrawn,412.1,295.0,,hybrid_solar_storage,1,0
+2278,55003,Grand BESS,Storage/Battery,,205.0,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-04,withdrawn,205.0,295.0,,storage,1,0
+2289,54632,Boson,Photovoltaic/Solar,Storage/Battery,1173.48,1173.48,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-09,withdrawn,2346.96,300.0,,hybrid_solar_storage,1,0
+2295,40082,Mount Lassen Power Plant,Biomass/Biofuel,,11.4,,Energy Only Requested,2025-02-12,,2025-12-10,withdrawn,11.4,301.0,,other,1,0
+2364,55036,Castle Rock Energy Storage,Storage/Battery,,157.6,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-12,withdrawn,157.6,303.0,,storage,1,0
+2365,55022,Redtail Energy Storage,Storage/Battery,,22.205,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-12,withdrawn,22.205,303.0,,storage,1,0
+2367,55023,Blacktail Energy Storage,Storage/Battery,,10.072,,Full Capacity Deliverability Status Requested,2025-02-12,,2025-12-12,withdrawn,10.072,303.0,,storage,1,0
