@@ -2,161 +2,142 @@
 
 ## Overview
 
-This repository contains a small, self-contained data analytics project focused on the **California Independent System Operator (CAISO)** interconnection queue. The goal is to use **publicly available queue disclosures** to analyze **which types of generation and storage projects tend to survive or withdraw** from the interconnection process, and why.
+This repository contains a focused, reproducible data analytics project examining **survivability and attrition in the CAISO interconnection queue** using only **publicly available disclosures**. The objective is to understand **which types of generation projects persist or withdraw**, *when* withdrawals tend to occur, and *how project characteristics relate to interconnection risk*.
 
-The project is intentionally scoped as an **AML-scale (Applied, Modular, Learnable)** analysis: it emphasizes clean data pipelines, transparent assumptions, and interpretable results over complex modeling. It is designed to demonstrate applied skills in **energy systems analysis**, **data cleaning**, and **exploratory survivability analysis**.
+The project emphasizes **interpretability, clean data pipelines, and transparency** rather than complex modeling. It is designed as an applied analysis demonstrating practical skills in **energy systems understanding**, **data cleaning**, and **exploratory survivability analysis**.
 
----
+## Motivation
 
-## Motivation & Problem Context
+Interconnection queues are one of the most significant bottlenecks to clean energy deployment in the United States. In CAISO, hundreds of generation and storage projects enter the queue, yet **a large majority never reach completion**.
 
-Across the U.S., interconnection queues have become a critical bottleneck for clean energy deployment. In CAISO, hundreds of generation and storage projects enter the queue each year, but historically **most projects withdraw before reaching commercial operation**.
+While CAISO publishes queue data, it is provided as **static snapshots**, fragmented across multiple files, and not structured for analysis. This project reorganizes those disclosures into analysis-ready datasets and uses them to identify **systematic patterns of attrition and persistence** that are not obvious from raw reports.
 
-While CAISO publishes queue reports, the data is:
-- snapshot-based rather than longitudinal,
-- fragmented across files and cohorts,
-- not packaged for direct analytics.
+## Scope and Design Philosophy
 
-This creates an opportunity to:
-- structure raw queue disclosures into analysis-ready datasets,
-- examine **patterns of attrition vs persistence**, and
-- connect project characteristics (technology, size, storage duration) to outcomes.
+This analysis is **retrospective and descriptive**, not predictive.
 
----
+It focuses on:
 
-## Project Scope
+* **Observed outcomes** (active vs withdrawn vs completed)
+* **Structural patterns**, not individual project forecasting
+* **Clear assumptions and limitations**, rather than black-box models
 
-**This project focuses on:**
-- Structural patterns, not prediction
-- Retrospective survivability, not forecasting
-- Transparency and reproducibility over black-box models
+Out of scope by design:
 
-### In scope
-- System-wide context using CAISO’s Public Queue Report
-- Cohort-level analysis using Cluster 15 interconnection requests
-- Comparisons of outcomes across:
-  - technology types
-  - project size
-  - storage duration
-- MW-weighted survivability (capacity that survives vs withdraws)
-
-### Out of scope (by design)
-- Full per-project historical timelines
-- Internal CAISO review or restudy events
-- Private or Market Participant Portal data
-- Machine-learning prediction models
-
----
-
+* Full longitudinal tracking of individual projects
+* Internal CAISO review stages or restudies
+* Market Participant Portal or non-public data
+* Machine-learning or predictive risk scoring
+  
 ## Data Sources
 
-This project uses **two public Excel files** from CAISO:
+The project uses exactly **two public CAISO Excel files**:
 
-1. **Public Queue Report (`publicqueuereport.xlsx`)**  
-   A system-wide snapshot listing active, withdrawn, and completed interconnection requests.
+1. **Public Queue Report** (`publicqueuereport.xlsx`)
+   A system-wide snapshot of active, withdrawn, and completed interconnection requests.
 
-2. **Cluster 15 Interconnection Requests (`cluster-15-interconnection-requests.xlsx`)**  
-   A single intake cohort with consistent submission rules and richer project attributes.
+2. **Cluster 15 Interconnection Requests** (`cluster-15-interconnection-requests.xlsx`)
+   A single intake cohort with consistent rules, enabling clean cohort-level analysis.
 
-No private data, scraping, or restricted portals are used.
-
----
+No scraping, APIs, or restricted portals are used.
 
 ## Repository Structure
 
+```
 ├─ README.md
 ├─ requirements.txt
 ├─ data/
-│ ├─ raw/ # Original CAISO XLSX files (unchanged)
-│ └─ processed/ # Cleaned, analysis-ready tables
+│  ├─ raw/        # Original CAISO XLSX files (unchanged)
+│  └─ processed/  # Cleaned, analysis-ready tables
 ├─ notebooks/
-│ ├─ 01_data_inventory.ipynb
-│ ├─ 02_clean_public_queue.ipynb
-│ ├─ 03_clean_cluster15.ipynb
-│ └─ 04_survivability_insights.ipynb
+│  ├─ 01_data_inventory.ipynb
+│  ├─ 02_clean_public_queue.ipynb
+│  ├─ 03_clean_cluster15.ipynb
+│  └─ 04_survivability_insights.ipynb
 └─ outputs/
-├─ figures/
-└─ tables/
-
-
----
+   ├─ figures/
+   └─ tables/
+```
 
 ## Analysis Approach
 
+The analysis proceeds in four steps:
+
 1. **Data Inventory**
-   - Inspect source files
-   - Identify observable vs unobservable attributes
-   - Document limitations explicitly
+   Inspect raw CAISO files, identify usable fields, and document structural limitations (e.g., lack of full project timelines).
 
-2. **Data Cleaning & Standardization**
-   - Normalize project identifiers, technology categories, MW/MWh fields
-   - Harmonize status labels (Active / Withdrawn / Completed)
-   - Create analysis-ready tables
+2. **Cleaning & Standardization**
+   Normalize project identifiers, technology labels, MW values, and status categories. Produce consistent, analysis-ready tables.
 
-3. **Survivability Analysis**
-   - Define outcomes as observed states (withdrawn, complete, active)
-   - Compare survivability by:
-     - technology type
-     - project size buckets
-     - storage duration
-   - Produce both project-count and MW-weighted views
+3. **Cohort Survivability Analysis (Cluster 15)**
+   Examine outcomes by:
+
+   * technology category
+   * project size (MW buckets)
+   * withdrawal timing (early vs late exits)
+
+   Both project counts and MW-weighted results are evaluated.
 
 4. **Interpretation**
-   - Highlight structural patterns
-   - Connect findings to grid constraints and interconnection risk
-   - Clearly state what the data can and cannot support
+   Translate observed patterns into structural insights about interconnection risk while clearly stating what the data does *not* support.
 
----
+## Key Findings
+
+From the Public Queue and Cluster 15 analysis:
+
+* **Withdrawal is the dominant outcome** in the CAISO interconnection process; only a minority of projects remain active or reach completion.
+* **Attrition is front-loaded**: a large share of withdrawn projects exit within the first year after queue entry.
+* **Project size matters**:
+
+  * Large projects (≥100 MW) dominate Cluster 15 and exhibit **substantially lower withdrawal rates** than smaller projects.
+  * Small projects show higher apparent attrition, though sample sizes are limited.
+* **Technology matters**, but interacts with scale:
+
+  * Survivability differences are most pronounced when technology is examined **conditional on project size** rather than in isolation.
+
+Overall, interconnection survivability appears to be driven less by any single attribute and more by a combination of **scale, feasibility, and early economic viability**.
 
 ## Skills Demonstrated
 
-This project demonstrates experience in:
+This project demonstrates:
 
-### Data Analytics
-- Working with imperfect, real-world energy datasets
-- Cleaning and restructuring Excel-based disclosures
-- Designing analysis pipelines with clear inputs and outputs
-- Producing interpretable visualizations
+* **Data analytics**
 
-### Energy Systems Literacy
-- Understanding ISO/RTO interconnection processes
-- Differentiating technologies and queue dynamics
-- Framing analytics around grid and policy constraints
+  * Cleaning and restructuring real-world, imperfect datasets
+  * Designing reproducible analysis pipelines
+  * Producing interpretable tables and visualizations
 
-### Technical Practice
-- Python (pandas, numpy, matplotlib)
-- Jupyter notebooks with narrative structure
-- Reproducible project organization
-- Environment management with virtual environments
+* **Energy systems literacy**
 
----
+  * Understanding ISO interconnection processes
+  * Framing analytics around grid constraints and queue dynamics
+  * Interpreting results in a policy-relevant context
 
-## Key Takeaways
+* **Technical practice**
 
-The primary contribution of this project is **not a single metric**, but a method:
-- transforming static queue snapshots into structured insights,
-- revealing survivability patterns that are not obvious from raw reports, and
-- highlighting data gaps that matter for clean-energy deployment.
-
-This work can serve as a foundation for deeper studies involving:
-- longitudinal snapshot tracking,
-- inter-ISO comparisons,
-- cost and upgrade risk modeling,
-- or policy evaluation of queue reforms.
-
----
+  * Python (pandas, numpy, matplotlib)
+  * Jupyter notebooks with narrative structure
+  * Reproducible project organization and environment setup
 
 ## Reproducibility
 
 All results can be reproduced by:
+
 1. Creating a Python virtual environment
 2. Installing dependencies from `requirements.txt`
-3. Running notebooks in order from `01` → `04`
+3. Running notebooks sequentially from `01` → `04`
 
-No external APIs or private access keys are required.
+No external services or credentials are required.
 
----
+## Limitations
+
+* The analysis is constrained to **public snapshot data** and cannot reconstruct full per-project histories.
+* Some attributes (e.g. storage MWh for Cluster 15) are unavailable in the public export.
+* Active projects may withdraw in the future; results reflect observed states at time of publication.
+
 
 ## Disclaimer
 
-This project uses only **publicly available CAISO information** and is intended for educational and analytical purposes. Interpretations are the author’s own and do not represent CAISO or any affiliated institution.
+This project uses only **publicly available CAISO data** and is intended for educational and analytical purposes. Interpretations are the author’s own and do not represent CAISO or any affiliated organization.
+
+---
