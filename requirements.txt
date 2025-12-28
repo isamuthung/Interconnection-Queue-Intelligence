@@ -5,3 +5,9 @@ pyarrow>=16.0
 matplotlib>=3.8
 jupyterlab>=4.2
 ipykernel>=6.29
+
+# Geospatial analysis
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9
