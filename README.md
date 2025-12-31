@@ -49,7 +49,6 @@ No APIs, scraping, or restricted portals are used.
 ## Repository Structure
 
 ```
-
 ├─ README.md
 ├─ requirements.txt
 ├─ data/
@@ -62,6 +61,9 @@ No APIs, scraping, or restricted portals are used.
 │ ├─ 04_clean_cluster14.ipynb
 │ ├─ 05_survivability_analysis.ipynb
 │ └─ 06_spatial_analysis.ipynb
+├─ notebooks/
+│ ├─ figures
+│ ├─ tables
 
 ```
 
