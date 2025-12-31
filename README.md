@@ -1,4 +1,4 @@
-# CAISO Interconnection Queue Survivability & Intake Analysis
+# CAISO Interconnection Queue Intelligence
 
 ## Overview
 
@@ -6,15 +6,11 @@ This repository contains a **reproducible, public-data analysis of the CAISO gen
 
 Using only **publicly available CAISO disclosures**, the project examines which types of projects tend to **withdraw versus persist**, **when attrition occurs**, how **intake composition differs across cohorts**, and how outcomes vary across **technology, scale, and geography**. The emphasis is on **interpretability, clean data pipelines, and methodological honesty**, rather than black-box prediction, producing insights that clarify **structural interconnection risk** while explicitly documenting the limits of public data.
 
----
-
 ## Motivation
 
 Interconnection queues have become one of the largest bottlenecks to clean energy deployment in the United States. In CAISO, hundreds of generation and storage projects enter the queue each year, yet **a majority never reach completion**.
 
 Although CAISO publishes queue data, it is released as **static snapshots**, fragmented across **multiple files and cohorts**, and not structured for longitudinal or comparative analysis. This project reorganizes those disclosures into **analysis-ready datasets** and uses them to surface **systematic patterns of attrition, persistence, and mismatch** that are not apparent in the raw queue reports.
-
----
 
 ## Scope & Design Philosophy
 
@@ -35,8 +31,6 @@ This project is **retrospective and descriptive**, not predictive.
 
 The guiding principle is **credible inference over over-reach**.
 
----
-
 ## Data Sources
 
 The analysis uses **only public CAISO files**:
@@ -52,9 +46,9 @@ The analysis uses **only public CAISO files**:
 
 No APIs, scraping, or restricted portals are used.
 
----
-
 ## Repository Structure
+
+```
 
 ├─ README.md
 ├─ requirements.txt
@@ -69,14 +63,11 @@ No APIs, scraping, or restricted portals are used.
 │ ├─ 05_survivability_analysis.ipynb
 │ └─ 06_spatial_analysis.ipynb
 
-
----
+```
 
 ## Notebooks
 
 The notebooks implement a **sequential, transparent analysis pipeline**: they begin by inventorying and inspecting raw CAISO files to document structural limitations, then clean and canonicalize the system-wide public queue and Cluster 14/15 intake datasets, producing standardized cohort-level tables. These cleaned datasets are used to analyze **survivability, attrition timing, scale and technology effects**, and to map **county-level spatial patterns** using public geographic boundaries, with each step explicitly scoped to what public data can reliably support.
-
----
 
 ## Key Findings (High-Level)
 
@@ -91,16 +82,12 @@ Across the analyses:
 
 Together, these findings suggest survivability is driven by **feasibility, scale, and economic robustness**, not any single attribute.
 
----
-
 ## Reproducibility
 
 All results can be reproduced by setting up a virtual environment and running the notebooks sequentially:
 
 ```
-
 python -m venv .venv
 source .venv/bin/activate   # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
-
 ```
