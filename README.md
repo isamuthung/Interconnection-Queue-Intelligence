@@ -2,34 +2,17 @@
 
 ## Overview
 
-This repository contains a **reproducible, public-data analysis of the CAISO generator interconnection queue**, focused on **project survivability, attrition dynamics, intake composition, and spatial patterns**.
+Interconnection queues have become a major bottleneck in California’s clean energy transition. Every year, hundreds of proposed generation and storage projects enter CAISO’s interconnection queue, yet most never reach completion. Although CAISO publishes public data on these projects, the information is released as fragmented, static Excel files that are difficult to analyze over time or across locations.
 
-Using only **publicly available CAISO disclosures**, the project examines which types of projects tend to **withdraw versus persist**, **when attrition occurs**, how **intake composition differs across cohorts**, and how outcomes vary across **technology, scale, and geography**. The emphasis is on **interpretability, clean data pipelines, and methodological honesty**, rather than black-box prediction, producing insights that clarify **structural interconnection risk** while explicitly documenting the limits of public data.
+This project grew out of a desire to use data analytics to better understand a real, high-impact energy systems problem—one where uncertainty is built into the process rather than caused by messy experimentation. Interconnection queues stood out because they quietly shape which clean energy projects move forward and which stall, while still offering publicly available data to work with.
 
-## Motivation
-
-Interconnection queues have become one of the largest bottlenecks to clean energy deployment in the United States. In CAISO, hundreds of generation and storage projects enter the queue each year, yet **a majority never reach completion**.
-
-Although CAISO publishes queue data, it is released as **static snapshots**, fragmented across **multiple files and cohorts**, and not structured for longitudinal or comparative analysis. This project reorganizes those disclosures into **analysis-ready datasets** and uses them to surface **systematic patterns of attrition, persistence, and mismatch** that are not apparent in the raw queue reports.
+Using only CAISO’s public disclosures, this repository organizes, cleans, and analyzes interconnection queue data to explore a few big-picture questions: which projects tend to survive, when withdrawals usually happen, what kinds of technologies are entering the queue today, and where interconnection demand is most concentrated across California. The goal is not to make predictions, but to make an opaque and important system easier to understand through clear, transparent analysis.
 
 ## Scope & Design Philosophy
 
-This project is **retrospective and descriptive**, not predictive.
+This project is intentionally retrospective and descriptive rather than predictive. The goal is to understand how California’s interconnection queue has behaved using only what can be clearly observed in public CAISO data, without trying to forecast outcomes or fill in missing information with assumptions. Throughout the project, I prioritized careful, defensible analysis over broader claims that the data cannot reliably support.
 
-### In Scope
-- Observed outcomes (active / withdrawn / completed)
-- Cohort-level survivability using Cluster 15
-- Intake comparisons across Cluster 14 and Cluster 15
-- Intake vs historical completion **distribution mismatch**
-- County-level spatial patterns derived from public geography
-
-### Explicitly Out of Scope (by Design)
-- Per-project longitudinal tracking across years
-- Internal CAISO study stages, re-studies, or cost assignments
-- Market Participant Portal or any non-public data
-- Machine-learning or predictive risk scoring
-
-The guiding principle is **credible inference over over-reach**.
+Within these boundaries, the analysis looks at queue outcomes, survivability and timing patterns, cohort behavior in Cluster 15, and intake composition across Cluster 14 and Cluster 15, using megawatt-weighted metrics and basic spatial analysis to highlight patterns by technology, scale, and location. The project intentionally leaves out project-level tracking across years, cost or study-stage analysis, developer behavior, prediction, and any non-public data, keeping the focus on transparency and what the public data can credibly show.
 
 ## Data Sources
 
@@ -44,7 +27,6 @@ The analysis uses **only public CAISO files**:
 3. **Preliminary Cluster 14 Project List (`preliminary_cluster14_project_list.xlsx`)**  
    A historical intake snapshot used to evaluate **how queue composition has changed over time**.
 
-No APIs, scraping, or restricted portals are used.
 
 ## Repository Structure
 
@@ -52,8 +34,9 @@ No APIs, scraping, or restricted portals are used.
 ├─ README.md
 ├─ requirements.txt
 ├─ data/
-│ ├─ raw/ # Original CAISO XLSX and GIS files (unchanged)
-│ └─ processed/ # Cleaned, canonical analysis tables and figures
+│ ├─ raw/                     
+│ ├─ processed/               
+│ └─ gis/
 ├─ notebooks/
 │ ├─ 01_data_management.ipynb
 │ ├─ 02_clean_public_queue.ipynb
@@ -61,35 +44,50 @@ No APIs, scraping, or restricted portals are used.
 │ ├─ 04_clean_cluster14.ipynb
 │ ├─ 05_survivability_analysis.ipynb
 │ └─ 06_spatial_analysis.ipynb
-├─ notebooks/
-│ ├─ figures
-│ ├─ tables
-
+├─ outputs/
+│ ├─ survivability/
+│ └─ spatial/
 ```
-
 ## Notebooks
 
-The notebooks implement a **sequential, transparent analysis pipeline**: they begin by inventorying and inspecting raw CAISO files to document structural limitations, then clean and canonicalize the system-wide public queue and Cluster 14/15 intake datasets, producing standardized cohort-level tables. These cleaned datasets are used to analyze **survivability, attrition timing, scale and technology effects**, and to map **county-level spatial patterns** using public geographic boundaries, with each step explicitly scoped to what public data can reliably support.
+These notebooks are meant to be run in order. Together, they form a transparent pipeline: start by inspecting the raw CAISO files, then clean them into consistent, analysis-ready tables, and finally produce the survivability and spatial results. The notebooks focus on what public CAISO data can clearly support (outcomes, timing, technology mix, MW-weighted patterns, and geography), and they do not attempt project-level tracking across years, study-stage analysis, cost estimates, or prediction.
+
+### 01_data_management.ipynb
+Inventories the raw files, documents what fields exist (and what is missing), and sets up the project’s folder paths and outputs. This notebook is about establishing boundaries and structure, not producing final findings.
+
+### 02_clean_public_queue.ipynb
+Cleans and standardizes the system-wide Public Queue Report into a consistent processed dataset. This enables aggregate outcome and timing analysis, but it does not create longitudinal project histories across reporting years.
+
+### 03_clean_cluster15.ipynb
+Cleans and canonicalizes Cluster 15 intake data into a cohort dataset with consistent technology and capacity fields. This is the main cohort used for survivability-style comparisons within a shared intake framework.
+
+### 04_clean_cluster14.ipynb
+Cleans the Cluster 14 intake snapshot (with more limited public fields) to support intake composition and basic geographic comparisons. It is not used for deeper survivability timing because the public detail is thinner.
+
+### 05_survivability_analysis.ipynb
+Uses the processed public queue and Cluster 15 data to summarize outcomes, withdrawal timing patterns, and MW-weighted survivability differences by technology and size. It is descriptive only and avoids prediction or causal claims.
+
+### 06_spatial_analysis.ipynb
+Uses processed datasets plus the county GeoJSON to map and summarize county-level and POI-level concentration patterns. The maps show where queue pressure clusters, but they do not explain why a specific site succeeds or fails.
 
 ## Key Findings (High-Level)
 
 Across the analyses:
+* Withdrawal is the dominant outcome in the CAISO interconnection process
+* Attrition is front-loaded, with many projects withdrawing relatively early after queue entry
+* Project scale matters: large projects dominate proposed MW and show meaningfully lower withdrawal rates
+* Technology differences are closely tied to scale, rather than acting as standalone drivers of survivability
+* Recent intake composition differs from historical completions, suggesting a mismatch between what enters the queue and what has historically finished
+* Spatial patterns show regional clustering of both proposed capacity and attrition, though precision is limited by public data granularity
 
-- **Withdrawal is the dominant outcome** in the CAISO interconnection process  
-- **Attrition is front-loaded**, with many projects withdrawing relatively early after queue entry  
-- **Project scale matters**: large projects dominate proposed MW and exhibit materially lower withdrawal rates  
-- **Technology effects are conditional on scale**, rather than standalone drivers of survivability  
-- **Intake composition differs from historical completions**, suggesting structural misalignment between what enters the queue and what ultimately succeeds  
-- Spatial patterns indicate **regional clustering** of both proposals and attrition, though precision is constrained by public data granularity  
-
-Together, these findings suggest survivability is driven by **feasibility, scale, and economic robustness**, not any single attribute.
+Taken together, the results suggest survivability is shaped most by feasibility, scale, and economic robustness, not any single attribute.
 
 ## Reproducibility
-
-All results can be reproduced by setting up a virtual environment and running the notebooks sequentially:
+All results can be reproduced by creating a virtual environment, installing dependencies, and running the notebooks in order:
 
 ```
 python -m venv .venv
 source .venv/bin/activate   # or .venv\Scripts\activate on Windows
 pip install -r requirements.txt
+jupyter lab
 ```
