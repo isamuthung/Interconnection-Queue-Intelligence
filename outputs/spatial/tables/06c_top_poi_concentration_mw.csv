@@ -1,0 +1,91 @@
+poi,mw_sum,label
+Diablo Canyon Switching Station,4900.0,cluster14_intake
+Red Bluff Substation,3150.0,cluster14_intake
+Cielo Azul Substation,3000.0,cluster14_intake
+Moorpark Substation,2975.0,cluster14_intake
+Etiwanda Substation,2250.0,cluster14_intake
+Los Banos Substation,2100.0,cluster14_intake
+Gates Substation,1989.9099999999999,cluster14_intake
+Mira Loma Substation,1800.0,cluster14_intake
+Whirlwind Substation,1750.0,cluster14_intake
+Midway Substation,1667.09,cluster14_intake
+Tesla Substation,1600.0,cluster14_intake
+Bellota Substation,1600.0,cluster14_intake
+Moss Landing Substation,1500.0,cluster14_intake
+Pittsburg Substation,1395.0,cluster14_intake
+Vincent Substation,1375.0,cluster14_intake
+Trout Canyon Substation,1300.0,cluster14_intake
+Otay Mesa Substation,1250.0,cluster14_intake
+Delaney Substation,1200.0,cluster14_intake
+Vaca Dixon Substation,1200.0,cluster14_intake
+Windhub Substation,1150.0,cluster14_intake
+North Gila-Imperial Valley line,1150.0,cluster14_intake
+Los Banos - Gates #1 Line,1150.0,cluster14_intake
+Diablo Canyon - Gates Line,1149.088,cluster14_intake
+Gates - Midway Line,1100.0,cluster14_intake
+La Cienega Substation,1100.0,cluster14_intake
+Delaney-Colorado River,1050.0,cluster14_intake
+Colorado River - Palo Verde 500kV Series Capacitor Station,1000.0,cluster14_intake
+Beatty Substation,927.0,cluster14_intake
+ECO Substation,900.0,cluster14_intake
+Imperial Valley Substation,900.0,cluster14_intake
+LUGO 500 kV,3987.01,cluster15_active
+MANNING 500 kV,3812.0,cluster15_active
+DRY LAKE SW STA 500 kV,2950.0,cluster15_active
+HARLAN SW STA 500 kV,2600.0,cluster15_active
+VINCENT 230 kV,1200.0,cluster15_active
+VIEJO 230 kV,1000.0,cluster15_active
+LAGUNA BELL 230 kV,1000.0,cluster15_active
+TESLA 230 kV,899.91,cluster15_active
+WHIRLWIND 230 kV,801.0,cluster15_active
+LOS BANOS-GATES #3,800.0,cluster15_active
+LUGO-PISGAH NO.2,700.0,cluster15_active
+CHINO 230 kV,699.0,cluster15_active
+CALCITE 230 kV,638.12,cluster15_active
+QUINTO SW STA 230 kV,600.0,cluster15_active
+MAGUNDEN-PASTORIA NO.3,600.0,cluster15_active
+MIRA LOMA 230 kV,559.0,cluster15_active
+WINDHUB 230 kV,550.0,cluster15_active
+RED BLUFF 230 kV,535.0,cluster15_active
+BELLOTA 230 kV,500.0,cluster15_active
+TESLA 500 kV,500.0,cluster15_active
+RANCHO VISTA 230 kV,500.0,cluster15_active
+Magunden-Springville No.1 220 kV,500.0,cluster15_active
+VINCENT 500 kV,450.0,cluster15_active
+WINDHUB 500 kV,450.0,cluster15_active
+QUINTO SW STA- FINK SW STA 230 kV,400.0,cluster15_active
+LOS BANOS 500 kV,400.0,cluster15_active
+RIO OSO 230 kV,400.0,cluster15_active
+DEVERS 500 kV,400.0,cluster15_active
+FINK SW STA 230 kV,370.0,cluster15_active
+COLORADO RIVER 230 kV,300.62,cluster15_active
+Moss Landing 500 kV,2250.0,public_active
+Imperial Valley Substation 230 kV,2035.0,public_active
+Windhub Substation 230kV,1800.0,public_active
+Windhub Substation 500kV,1750.0,public_active
+Gates 230 kV,1721.1,public_active
+Moorpark Substation 230 kV,1500.0,public_active
+Tranquility 230 kV,1500.0,public_active
+Manning-Midway 500kV Line,1150.0,public_active
+Los Banos 500 kV,1150.0,public_active
+Midway 500 kV,1150.0,public_active
+Vincent Substation 500kV,1150.0,public_active
+North Gila - Imperial Valley 500 kV Line,1150.0,public_active
+Whirlwind Substation 230kV,1076.88,public_active
+Kramer Substation 230kV,1000.0,public_active
+Diablo Canyon 500 kV,1000.0,public_active
+Rio Hondo Substation 230 kV,1000.0,public_active
+Arco 230 kV,914.9,public_active
+Tesla 500 kV,900.0,public_active
+Red Bluff Substation 500kV,900.0,public_active
+Colorado River Substation 230kV,900.0,public_active
+Gates-Midway 230 kV Line,900.0,public_active
+Otay Mesa Switchyard 230 kV,850.01,public_active
+Gates 500 kV,800.11,public_active
+Lambie 230 kV,800.0,public_active
+Suncrest - Ocotillo 500 kV Line,800.0,public_active
+Vincent Substation 230 kV,800.0,public_active
+Trout Canyon Substation 230 kV,750.0,public_active
+Vaca-Dixon 230 kV,700.0,public_active
+Valley Substation 500kV,680.0,public_active
+Red Bluff Substation 500 kV,650.0,public_active

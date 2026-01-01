@@ -1,0 +1,39 @@
+county,mw_sum,label
+KERN,12099.98,public_active
+LOS ANGELES,7636.0,public_active
+RIVERSIDE,7012.0,public_active
+FRESNO,4883.28,public_active
+SAN DIEGO,4426.41,public_active
+SAN BERNARDINO,4255.0,public_active
+IMPERIAL,3450.44,public_active
+KINGS,2879.1,public_active
+MERCED,2835.0,public_active
+MONTEREY,2370.0,public_active
+SAN JOAQUIN,2355.2,public_active
+SOLANO,1906.8,public_active
+VENTURA,1900.0,public_active
+CONTRA COSTA,1770.0,public_active
+TULARE,1420.0,public_active
+ALAMEDA,1411.5,public_active
+SANTA CLARA,1018.0,public_active
+SAN LUIS OBISPO,1000.0,public_active
+ORANGE,850.0,public_active
+INYO,750.0,public_active
+COLUSA,730.0,public_active
+MADERA,625.0,public_active
+STANISLAUS,420.0,public_active
+SAN MATEO,315.0,public_active
+L.A,250.0,public_active
+SAN FRANCISCO,250.0,public_active
+SHASTA,200.0,public_active
+BUTTE,200.0,public_active
+SANTA CRUZ,200.0,public_active
+SONOMA,173.0,public_active
+SAN BENITO,110.0,public_active
+CALAVERAS,100.0,public_active
+SUTTER,98.2,public_active
+YOLO,80.0,public_active
+LAKE,52.01,public_active
+SACRAMENTO,49.9,public_active
+NAPA,24.5,public_active
+TEHAMA,5.0,public_active
