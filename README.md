@@ -1,7 +1,5 @@
 # CAISO Interconnection Queue Intelligence
 
-## Overview
-
 Interconnection queues have become a major bottleneck in California’s clean energy transition. Every year, hundreds of proposed generation and storage projects enter CAISO’s interconnection queue, yet most never reach completion. Although CAISO publishes public data on these projects, the information is released as fragmented, static Excel files that are difficult to analyze over time or across locations.
 
 This project grew out of a desire to use data analytics to better understand a real, high-impact energy systems problem—one where uncertainty is built into the process rather than caused by messy experimentation. Interconnection queues stood out because they quietly shape which clean energy projects move forward and which stall, while still offering publicly available data to work with.
