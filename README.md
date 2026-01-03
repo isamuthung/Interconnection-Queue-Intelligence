@@ -1,12 +1,8 @@
 # CAISO Interconnection Queue Intelligence
 
-Interconnection queues have become a major bottleneck in California’s clean energy transition. Every year, hundreds of proposed generation and storage projects enter CAISO’s interconnection queue, yet most never reach completion. Although CAISO publishes public data on these projects, the information is released as fragmented, static Excel files that are difficult to analyze over time or across locations.
+Interconnection queues have become a major bottleneck in California’s clean energy transition. Every year, hundreds of proposed generation and storage projects enter CAISO’s interconnection queue, yet most never reach completion. Although CAISO publishes public data on these projects, the information is released as fragmented, static Excel files that are difficult to analyze over time or across locations. This project grew out of a desire to use data analytics to better understand a real, high-impact energy systems problem. Interconnection queues stood out because they quietly shape which clean energy projects move forward and which stall, while still offering publicly available data to work with. Using only CAISO’s public disclosures, this repository organizes, cleans, and analyzes interconnection queue data to explore a few big-picture questions: which projects tend to survive, when withdrawals usually happen, what kinds of technologies are entering the queue today, and where interconnection demand is most concentrated across California. The goal is not to make predictions, but to make an opaque and important system easier to understand through clear, transparent analysis.
 
-This project grew out of a desire to use data analytics to better understand a real, high-impact energy systems problem—one where uncertainty is built into the process rather than caused by messy experimentation. Interconnection queues stood out because they quietly shape which clean energy projects move forward and which stall, while still offering publicly available data to work with.
-
-Using only CAISO’s public disclosures, this repository organizes, cleans, and analyzes interconnection queue data to explore a few big-picture questions: which projects tend to survive, when withdrawals usually happen, what kinds of technologies are entering the queue today, and where interconnection demand is most concentrated across California. The goal is not to make predictions, but to make an opaque and important system easier to understand through clear, transparent analysis.
-
-## Scope & Design Philosophy
+## Scope & Design 
 
 This project is intentionally retrospective and descriptive rather than predictive. The goal is to understand how California’s interconnection queue has behaved using only what can be clearly observed in public CAISO data, without trying to forecast outcomes or fill in missing information with assumptions. Throughout the project, I prioritized careful, defensible analysis over broader claims that the data cannot reliably support.
 
@@ -14,7 +10,7 @@ Within these boundaries, the analysis looks at queue outcomes, survivability and
 
 ## Data Sources
 
-The analysis uses **only public CAISO files**:
+The analysis uses only public CAISO files:
 
 1. **Public Queue Report (`public_queue_report.xlsx`)**  
    A system-wide snapshot of active, withdrawn, and completed interconnection requests across all cohorts.
