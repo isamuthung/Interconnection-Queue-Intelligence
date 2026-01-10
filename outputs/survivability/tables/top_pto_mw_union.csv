@@ -1,20 +1,20 @@
 pto,mw_sum,label
-SCE,33913.08,public_active
-PGAE,30191.39,public_active
-SDGE,12519.67,public_active
-DCRT,7600.0,public_active
-GLW,5917.0,public_active
-VEA,50.0,public_active
-SCE,15669.26,cluster15_active
-PGAE,12444.11,cluster15_active
-LSPC,3812.0,cluster15_active
-GLW,1800.02,cluster15_active
-SDGE,1719.81,cluster15_active
-DCRT,1000.0,cluster15_active
-WAPA,800.0,cluster15_active
-PGE,48479.2858,cluster14_intake
-SCE,37189.0,cluster14_intake
-SDGE,11130.0,cluster14_intake
-DCRT,5400.0,cluster14_intake
-GLW,2150.0,cluster14_intake
-VEA,1647.0,cluster14_intake
+SCE,33913.08,Public Queue (Active)
+PGAE,30191.39,Public Queue (Active)
+SDGE,12519.67,Public Queue (Active)
+DCRT,7600.0,Public Queue (Active)
+GLW,5917.0,Public Queue (Active)
+VEA,50.0,Public Queue (Active)
+SCE,15669.26,Cluster 15 (Active)
+PGAE,12444.11,Cluster 15 (Active)
+LSPC,3812.0,Cluster 15 (Active)
+GLW,1800.02,Cluster 15 (Active)
+SDGE,1719.81,Cluster 15 (Active)
+DCRT,1000.0,Cluster 15 (Active)
+WAPA,800.0,Cluster 15 (Active)
+PGE,48479.2858,Cluster 14 (Intake)
+SCE,37189.0,Cluster 14 (Intake)
+SDGE,11130.0,Cluster 14 (Intake)
+DCRT,5400.0,Cluster 14 (Intake)
+GLW,2150.0,Cluster 14 (Intake)
+VEA,1647.0,Cluster 14 (Intake)
