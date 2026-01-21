@@ -8,6 +8,10 @@ This project is intentionally retrospective and descriptive rather than predicti
 
 Within these boundaries, the analysis looks at queue outcomes, survivability and timing patterns, cohort behavior in Cluster 15, and intake composition across Cluster 14 and Cluster 15, using megawatt-weighted metrics and basic spatial analysis to highlight patterns by technology, scale, and location. The project intentionally leaves out project-level tracking across years, cost or study-stage analysis, developer behavior, prediction, and any non-public data, keeping the focus on transparency and what the public data can credibly show.
 
+Here is the 6-Page Report that pairs with this Github Repo
+
+https://docs.google.com/document/d/19qYg5qzphvVOD21XKS8pSuLvm1Si27LU-fXW6xHcSv4/edit?usp=sharing
+
 ## Data Sources
 
 The analysis uses only public CAISO files:
